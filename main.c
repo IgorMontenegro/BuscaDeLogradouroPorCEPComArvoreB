@@ -1,60 +1,149 @@
+#include <assert.h>
 #include <stdio.h>
 #include <stdlib.h>
+#include "stdlib.h"
+#include "limits.h"
+#include "arvore_binaria.h"
+#define TAMANHO_ARRAY 2200
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+int main(void){
 
-int main(int argc, char *argv[]) {
-	
-	int a[TAMANHO_ARRAY] = 20000;
-	ARVORE_B raiz;
-	
-	//"wt": abertura para gravação, arquivo texto
+    //Cria arvore e adiciona os dados do arquivo.
+	char a[TAMANHO_ARRAY];
+    ARVORE_B raiz;
+	int i = 0;
+    char url[]="BaseDeCepsELogradourosBIN.txt",
+         linha,
+         resultado;
+
+    char entrada = "";
+
 	FILE *arq;
-	int result;
-	char Str[50];
-	int i;
 
-	arq = fopen("ArqGrav.txt", "rt");
+	arq = fopen(url, "r");
+	if(arq == NULL)
+			printf("Erro, nao foi possivel abrir o arquivo\n");
+	else
+		while( (fscanf(arq,"%s\n", linha))!=EOF )
+        {
+            a[i] = linha;
+            i++;
+        }
 
-	if (arq == NULL)
-	{
-	    printf("Problemas na CRIACAO do arquivo\n");
-    return;
-	} 
-	
+    //Cria arvore com os dados de cada linha na variavel a
 	raiz = criaArvore(a, 0, TAMANHO_ARRAY);
-	
-	int i, result;
-   	float x;
-   	result = fscanf(arq, "%d%f", &i, &x); 
-	
-	
-	i = 1;
-  	while (!feof(arq))
-  	{
-		// Lê uma linha (inclusive com o '\n')
- 	    result = fgets(Linha, 100, arq);  // o 'fgets' lê até 99 caracteres ou até o '\n'
-      	if (result)  // Se foi possível ler
-	  	printf("Linha %d : %s",i,Linha);
-      	i++;
-  	}
-  	
-	
-	
-	
-	fclose(arq);
-	
-	
-	printf("Imprimindo em pré-ordem:\n");
-	preOrdem(raiz);
-	printf("\n\n");
 
-	printf("Imprimindo em ordem:\n");
-	emOrdem(raiz);
-	printf("\n\n");
+    fclose(arq);
 
-	printf("Imprimindo em pós-ordem:\n");
-	posOrdem(raiz);
-	printf("\n\n");
-	
+    printf("Digite sua busca: \n");
+    scanf("%s",&entrada);
+
+    //converte entrada em binario e busca na arvore
+    resultado = arvore_binaria_buscar(raiz,chartobin(entrada));
+
+    //converte resultado binario em string traduzida
+    bintochar(resultado);
+
+    //imprime retorno da busca
+    printf("Resultado da busca", resultado);
+    scanf("%s, pressione qualquer tecla para continuar.",&linha);
+
+    return 0;
 }
+
+
+//------------------------------------------------------
+// Converte uma string em binario para um valor char
+//------------------------------------------------------
+unsigned char bintochar( char* binstr )
+{
+    // Retorna o valor char que a string passada como argumento
+    // representa. Utiliza a funcao strtoul da biblioteca padrao
+    return (unsigned char) ( strtoul( binstr, NULL, 2 ) );
+}
+
+//----------------------------------------------------------
+// Converte um valor do tipo char para uma string binaria
+//----------------------------------------------------------
+char* chartobin ( unsigned char c ){
+    static char bin[CHAR_BIT + 1] = { 0 };
+    int i;
+
+    for ( i = CHAR_BIT - 1; i >= 0; i-- ){
+        bin[i] = (c % 2) + '0';
+        c /= 2;
+    }
+    // Retorna a string com a representacao binaria do argumento
+    return bin;
+}
+
+ARVORE_B novoNo(){
+	return ((ARVORE_B)malloc(sizeof(NO)));
+}
+
+ARVORE_B iniciaNo(DADO d1, ARVORE_B p1, ARVORE_B p2){
+	ARVORE_B t;
+
+	t = novoNo();
+	t->d = d1;
+	t->esq = p1;
+	t->dir = p2;
+	return t;
+}
+
+ARVORE_B criaArvore(DADO a[], int i, int tamanho){
+	if(i >= tamanho){
+		return NULL;
+	}else{
+		return(
+			iniciaNo(
+				a[i],
+				criaArvore(a, 2*i+1, tamanho),
+				criaArvore(a, 2*i+2, tamanho)
+			)
+		);
+	}
+}
+
+char arvore_binaria_buscar(no, valor){
+    if no is None{
+        # valor não encontrado
+        return None;
+    }
+    else{
+        if valor == no.valor
+            # valor encontrado
+            return no.valor;
+        if valor < no.valor
+            # busca na subárvore esquerda
+            return arvore_binaria_buscar(no.filho_esquerdo, valor);
+        if valor > no.valor
+            # busca na subárvore direita
+            return arvore_binaria_buscar(no.filho_direito, valor);
+    }
+}
+
+void preOrdem(ARVORE_B raiz){
+	if(raiz != NULL){
+		printf("%c ", raiz->d);
+		preOrdem(raiz -> esq);
+		preOrdem(raiz -> dir);
+	}
+}
+
+void emOrdem(ARVORE_B raiz){
+	if(raiz != NULL){
+		emOrdem(raiz -> esq);
+		printf("%c ", raiz->d);
+		emOrdem(raiz -> dir);
+	}
+}
+
+void posOrdem(ARVORE_B raiz){
+	if(raiz != NULL){
+		posOrdem(raiz -> esq);
+		posOrdem(raiz -> dir);
+		printf("%c ", raiz->d);
+	}
+}
+*/
