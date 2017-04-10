@@ -1,12 +1,10 @@
 # depslib dependency file v1.0
-1491788622 source:c:\users\igor\desktop\atividadebusccep\buscadelogradouroporcep\buscadelogradourocep\main.c
+1491437402 source:c:\users\igor\desktop\atividadebusccep\buscadelogradouroporcep\buscadelogradourocep\main.c
 	<assert.h>
 	<stdio.h>
 	<stdlib.h>
-	<string.h>
-	<time.h>
-	<limits.h>
 	"stdlib.h"
+	"limits.h"
 	"arvore_binaria.h"
 
 1491192219 c:\users\igor\desktop\atividadebusccep\buscadelogradouroporcep\buscadelogradourocep\arvore_binaria.h

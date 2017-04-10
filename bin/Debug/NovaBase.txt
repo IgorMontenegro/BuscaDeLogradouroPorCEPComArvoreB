@@ -1,0 +1,2184 @@
+74130010;Assis Chateaubriand
+72800010;Rua do Comercio
+72800020;Avenida Jose Vieira Primo
+72800025;Travessa Deputado Jesus Meireles
+72800030;Praca Expedicionario Jose Francisco de Souza
+72800040;Travessa Nirson Carneiro
+72800050;Travessa Amador Braz de Queiroz
+72800060;Praca Nirson Carneiro Lobo
+72800070;Rua Ofirbraz
+72800080;Rua Joao Braz
+72800090;Praca Germires Reis
+72800100;Rua Aloisio Goncalves
+72800110;Rua Jk
+72800120;Rua Joao Paulo
+72800130;Rua Manoel Carvalho Resende
+72800140;Travessa Milton Meireles
+72800150;Rua Ophir Jose Braz
+72800160;Rua Jose Eugenio
+72800170;Rua Villi Curado
+72800175;Praca Desembargador Milton Sebastiao Barbosa
+72800180;Rua Aloisio
+72800190;Rua Joaquim Mendonca Roriz
+72800195;Travessa Joaquim Mendonca Roriz
+72800200;Rua Coronel Antonio Carneiro
+72800220;Rua Jose de Melo
+72800223;Travessa Geremias Roriz
+72800225;Travessa Dionisio Meireles
+72800230;Travessa Epaminondas Roriz
+72800240;Travessa T Gomes
+72800250;Travessa Manoel Braz
+72800260;Travessa Jose de Melo
+72800270;Praca Raimundo Alves de Melo
+72800275;Avenida Juventino Rodrigues
+72800277;Rua Gutemberg Roriz
+72800280;Rua do Santissimo Sacramento
+72800283;Praca da Matriz
+72800285;Rua Joaquim Alves Meireles
+72800290;Rua Sebastiao Elias dos Reis
+72800295;Avenida Osvaldo Morais
+72800300;Rua Zig Zag
+72800305;Rua Sebastiao Elias
+72800310;Travessa Balbino Vasquez
+72800320;Travessa dos Mineiros
+72800330;Avenida Central
+72800340;Rua Josue Meireles
+72800360;Rua Nestor Ribeiro
+72800370;Travessa Santa Maria
+72800380;Rua Benjamim Roriz; Rua Benjamin Roriz
+72800390;Travessa Padre Rosa
+72800400;Rua Artur Roriz
+72800410;Beco Padre Rosa
+72800420;Rua Doutor ezio Carneiro
+72800430;Rua Padre Rosa
+72800440;Rua Doutor Joao Teixeira
+72800450;Rua Municipal
+72800460;Rua Padre Domingos
+72800470;Travessa Padre Domingos
+72800480;Rua Manoel Roriz
+72800490;Rua Padre Bernardo
+72800500;Rua Jose Franco Pimentel
+72800510;Rua Raquel Pimentel
+72800520;Rua Florentino Chaves
+72800530;Viela Alberto de Paula
+72800540;Rua Rachel Pimentel Barbosa
+72800550;Rua Benedito Pimentel
+72800555;Praca Alceu de Araujo Roriz
+72800560;Travessa Americano do Brasil
+72800570;Rua Americano do Brasil
+72800575;Rua Agripino Benedito de Moraes
+72800580;Rua Tres Bicas
+72800590;Rua Major Eliseu de Araujo Melo
+72800600;Rua Nossa Senhora de Fatima
+72800610;Avenida Inacio Neto
+72800620;Rua Padre Primo
+72800630;Praca Raimundo de Araujo Melo
+72800635;Rua Nelson Braga
+72800640;Rua 25 de Dezembro
+72800645;Rua Rodovalho Roriz
+72800650;Rua Eliane Laquis
+72800660;Rua Rafael Meireles Leite
+72800670;Rua Nelson Braganel
+72800680;Praca Evangelino Meireles
+72800685;Travessa Archimedes Tormin
+72800690;Rua D
+72800700;Travessa Rui Barbosa
+72800710;Rua Josefina
+72800720;Travessa Dona Olivia Palestino Meireles
+72800725;Praca Walter Roriz
+72800730;Rua Jesus Meireles
+72800740;Avenida Floriano Peixoto
+72801010;Rua Sergismundo Melo
+72801013;Rua Doutor Joao Teixeira
+72801017;Rua Artur Roriz
+72801020;Avenida Santa Maria
+72801023;Beco Padre Rosa
+72801027;Travessa Padre Rosa
+72801030;Rua Alberto de Paiva
+72801035;Travessa Ulisses Braz Caixeta
+72801040;Avenida Aeroporto
+72801045;Rua Benicio Olegario de Almeida
+72801050;Rua Antonio Curriola
+72801060;Rua Doutor ezio Carneiro
+72801070;Travessa Alberto de Paiva
+72801080;Praca da Feira
+72801090;Terminal Rodoviario
+72801100;Rua Senador Herculano Santos
+72801110;Rua Professor Moises
+72801115;Rua Trajano Meireles
+72801120;Rua Itibere
+72801125;Rua Doutor Delgado
+72801130;Alameda Corumba
+72801140;Rua Conego Ramiro
+72801143;Rua Padre Rosa
+72801147;Rua Benjamin Roriz
+72801150;Avenida Central
+72801320;Avenida Brasfrigo
+72801360;Rodovia Braluz
+72801505;Rodovia GO010
+72801510;Avenida Central
+72801515;Praca Osvaldo de Lima
+72801520;Rua Santana
+72801530;Travessa Placido de Paiva
+72801540;Rua Professor Arthur Ribeiro
+72801550;Rua Epaminondas
+72801560;Rua Joao Goncalves
+72801570;Rua Eliseu de Melo
+72801580;Rua Professor Arthur Roriz
+72801590;Rua Jose Carneiro
+72801600;Travessa Santa Maria
+72801610;Avenida Santa Maria
+72801620;Rua Isaac Goncalves
+72801630;Rua Epaminondas Roriz
+72801640;Rua Domingo Palestino
+72801650;Rua Artur Ribeiro
+72801660;Rua DP
+72801670;Rua Placido de Paiva
+72801680;Rua Professor Alarico
+72801690;Rua Benedito Matos
+72801700;Alameda Paiva
+72801705;Travessa Bertoldo
+72801710;Rua Manoel Roriz
+72801720;Rua Gabriel Machado
+72801730;Alameda Santa Maria
+72801735;Avenida Sao Bartolomeu
+72801740;Travessa Paiva
+72801750;Rua Olimpio Leite
+72801760;Travessa Olimpio Leite
+72801770;Rua Jose Corumbista
+72801780;Rua Benedito Machado
+72801790;Travessa Jose Corumbista
+72801800;Rua Maria Lourenca
+72801810;Rua Delfino Curado
+72801820;Rua Professor Moises
+72801830;Rua Padre Joao Lima
+72801840;Rua Jose de Campos
+72801850;Rua Padre Tito
+72801860;Rua Francisco Roriz
+72801870;Avenida Aeroporto
+72801875;Avenida iris Luiz Solano
+72801880;Quadra A
+72801882;Quadra B
+72801884;Quadra C
+72801886;Quadra D
+72801888;Quadra E
+72801890;Quadra F
+72801892;Quadra G
+72801894;Quadra H
+72801896;Quadra I
+72801900;Avenida Brasfrigo
+72802605;area 1
+72802610;Quadra 3
+72802615;Quadra 5
+72802620;Quadra 7
+72802625;Quadra 9
+72802630;Quadra 11
+72802635;Quadra 13
+72802640;Quadra 15
+72803010;Avenida Joventino Rodrigues
+72803020;Rua Parana
+72803040;Avenida Marechal Floriano Peixoto
+72803045;Praca Almir de Souza Gomes
+72803050;Rua Santa Catarina
+72803060;Avenida Cardeal Arco Verde
+72803070;Rua Mato Grosso
+72803080;Rua Rio de Janeiro
+72803090;Rua Dom Abel
+72803100;Rua Minas Gerais
+72803110;Rua Sao Paulo
+72803115;Helio Rodrigue de Queiroz
+72803120;Rua Maranhao
+72803130;Rua Ceara
+72803140;Rua Bahia
+72803143;Rua Valeria Tavares de Lucena
+72803310;Avenida Acacia
+72803320;Rua Sao Paulo
+72803330;Avenida Helio Rodrigues
+72803340;Rua 01
+72803350;Rua Benedito Antonio Morais
+72803360;Rua Antonio Vieira Filho
+72803370;Rua Helena Rodrigues Pereira
+72803400;Rua 21
+72803410;Rua Edvan Jose Oliveira Matos
+72803420;Rua Conceicao Jose Barbosa
+72803430;Rua Antonio de Oliveira Matos
+72803440;Rua Olimpio Ferreira Corte
+72803450;Rua Francisco Rodrigues Lima
+72803460;Rua Wili Rodrigues de Queiroz
+72803470;Rua 20
+72803480;Avenida Goias
+72803490;Rua Elza da Rocha Vieira
+72803500;Rua Azarias de Araujo Roriz
+72803510;Avenida Brasil
+72803530;Rua Doralide de Araujo Roriz
+72803540;Rua Goiania
+72803550;Rua Ademar Simao Vieira
+72803560;Rua 11
+72803570;Rua 10
+72803580;Rua Helena Vieira Jardim
+72803590;Rua Euza D'Aparecida Roriz dos Anjos
+72803610;Rua Edivar da Aparecida Roriz
+72804010;Avenida Alfredo Nasser
+72804020;Avenida Contorno
+72804030;Rua Jose de Alencar
+72804040;Rua Rui Barbosa
+72804050;Rua Castro Alves
+72804060;Rua Gilberto de Amado
+72804070;Rua Goncalves Dias
+72804080;Rua Gregorio de Matos
+72804090;Rua Oneida Tavares
+72804100;Avenida Olavo Bilac
+72804110;Rua Euclides da Cunha
+72804120;Rua Ciro dos Anjos
+72804130;Rua Visconde de Araguaia
+72804140;Rua Afonso Arinos
+72804150;Rua Humberto de Campos
+72804160;Rua Milton Campos
+72804170;Avenida Miguel Reale
+72804180;Rua Cassimiro de Abreu
+72804190;Rua Fagundes Varela
+72804200;Rua Machado de Assis
+72804240;Rua Joaquim Nabuco
+72804250;Rua Dom Helder Camara
+72804260;Rua Padre Antonio Vieira
+72804270;Rua Jose Bonifacio
+72804280;Rua Leolince
+72804290;Rua Ataulfo Alves
+72804300;Rua Augusto dos Anjos
+72804310;Rua Vieira de Melo
+72804320;Rua Brasiliense
+72804325;Avenida Pianco
+72804330;Rua Caldas Barbosa
+72804340;Rua Vasco dos Reis
+72804350;Rua Jose Dercio Filho
+72804360;Rua Santiago Dantas
+72804370;Rua Julio Castilho
+72804380;Rua Gilson Amado
+72804390;Rua Catulo da Paixao
+72804400;Rua Jose do Patrocinio
+72805005;Avenida Meireles
+72805010;Rua Araguatins
+72805020;Rua Pedro Afonso
+72805030;Rua Afonso
+72805040;Rua Parana
+72805050;Avenida Carlos Gomes
+72805060;Rua Natividade
+72805070;Rua Porto Nacional
+72805080;Avenida Contorno
+72805090;Rua Taguatinga
+72805095;Rua Corumbacy Reis Perdigao
+72805100;Rua Arraias
+72805110;Rua Rialma
+72805120;Rua Ipameri
+72805130;Rua Sao Paulo
+72805140;Avenida Helio Rodrigues de Queiroz
+72805150;Rua Ceres
+72805160;Avenida Juscelino Kubitschek
+72805170;Rua Itapaci
+72805180;Rua Porongatu
+72805190;Rua Miracema
+72805200;Rua Vianopolis
+72805210;Rua Cristalina
+72805220;Rua Leopoldo de Bulhões
+72805230;Rua Pires do Rio
+72805240;Rua Catalao
+72805250;Rua Silvania
+72805260;Rua Goiandira
+72805270;Rua Formosa
+72805280;Rua Rio Verde
+72805290;Rua Trindade
+72805300;Rua Palmeiras
+72805310;Rua Neropolis
+72805320;Rua Jatai
+72805330;Rua Jaragua
+72805350;Rua Corumba
+72805360;Rua Pirenopolis
+72805370;Rua Piracanjuba
+72805380;Rua Morrinhos
+72805400;Rua 85
+72805410;Rua Anapolis
+72805420;Rua Itaberai
+72805430;Avenida Goiania
+72805440;Rua Pau Terra
+72805445;Rua Dilma Roriz Medeiros
+72805450;Rua A
+72805455;Rua B
+72805460;Rua C
+72805465;Rua D
+72805470;Rua E
+72806010;Avenida Contorno
+72806020;Rua Anapolis
+72806030;Rua Pau Terra
+72806040;Rua 81
+72806050;Rua 80
+72806060;Rua 74
+72806070;Rua 69
+72806080;Rua 67
+72806090;Rua Peroba
+72806100;Rua 79
+72806110;Rua 77
+72806130;Rua 75
+72806140;Rua 73
+72806150;Rua 72
+72806160;Rua 71
+72806170;Rua 68
+72806180;Avenida Pianco
+72806190;Rua 83
+72806200;Rua 82
+72806210;Rua 76
+72806220;Rua dos Eucaliptos
+72806230;Rua Jatoba
+72806240;Rua 70
+72806250;Rua das Laranjeiras
+72806260;Rua 93
+72806270;Rua 97
+72806280;Rua 95
+72806290;Rua dos Pinheiros
+72806300;Rua 94
+72806310;Rua do Angico
+72806320;Rua 102
+72806330;Rua do Palmito
+72806340;Rua 103
+72806350;Rua 104
+72806360;Rua 105
+72806370;Rua do Cajueiro
+72806380;Rua Pequizeiro
+72806390;Rua 113
+72806400;Rua 112
+72809005;Quadra 1
+72809010;Quadra 2
+72809015;Quadra 3
+72809020;Quadra 4
+72809025;Quadra 5
+72809030;Quadra 6
+72809035;Quadra 7
+72809040;Quadra 8
+72809045;Quadra 9
+72809050;Quadra 10
+72809055;Quadra 11
+72809060;Quadra 12
+72809065;Quadra 13
+72809070;Quadra 14
+72809075;Quadra 15
+72809080;Quadra 16
+72809085;Quadra 17
+72809090;Quadra 18
+72809095;Quadra 19
+72809100;Quadra 20
+72809105;Quadra 21
+72809110;Quadra 22
+72809115;Quadra 23
+72809120;Quadra 24
+72809125;Quadra 25
+72809130;Quadra 26
+72809135;Quadra 27
+72809140;Quadra 28
+72809145;Quadra 29
+72809150;Quadra 30
+72809155;Quadra 31
+72809160;Quadra 32
+72809165;Quadra 33
+72809170;Quadra 34
+72809175;Quadra 35
+72809180;Quadra 36
+72809185;Quadra 37
+72809190;Quadra 38
+72809195;Quadra 39
+72809200;Quadra 40
+72809205;Quadra 41
+72809210;Quadra 42
+72809215;Quadra 43
+72809220;Quadra 44
+72809225;Quadra 45
+72809230;Quadra 46
+72809235;Quadra 47
+72809240;Quadra 48
+72809245;Quadra 49
+72809250;Quadra 50
+72809255;Quadra 51
+72809260;Quadra 52
+72809265;Quadra 53
+72809270;Quadra 54
+72809275;Quadra 55
+72809280;Quadra 56
+72809285;Quadra 57
+72809290;Quadra 58
+72809295;Quadra 59
+72809300;Quadra 60
+72809305;Quadra 61
+72809310;Quadra 62
+72809315;Quadra 63
+72809320;Quadra 64
+72809325;Quadra 65
+72809330;Quadra 66
+72809335;Quadra 67
+72809340;Quadra 68
+72809345;Quadra 69
+72809350;Quadra 70
+72809355;Quadra 71
+72809360;Quadra 72
+72809365;Quadra 73
+72809370;Quadra 74
+72809375;Quadra 75
+72809380;Quadra 76
+72809385;Quadra 77
+72809390;Quadra 78
+72809395;Quadra 79
+72809400;Quadra 80
+72809405;Quadra 81
+72809410;Quadra 82
+72809415;Quadra 83
+72809420;Quadra 84
+72809425;Quadra 85
+72809430;Quadra 86
+72809435;Quadra 87
+72809440;Quadra 88
+72809445;Quadra 89
+72809450;Quadra 90
+72809455;Quadra 91
+72809460;Quadra 92
+72809465;Quadra 93
+72809470;Quadra 94
+72809475;Quadra 95
+72809480;Quadra 96
+72809485;Quadra 97
+72809490;Quadra 98
+72809495;Quadra 99
+72809500;Quadra 100
+72809505;Quadra 101
+72809510;Quadra 102
+72809515;Quadra 103
+72809520;Quadra 104
+72809525;Quadra 105
+72809530;Quadra 106
+72809535;Quadra 107
+72809540;Quadra 108
+72809545;Quadra 109
+72809550;Quadra 110
+72809555;Quadra 111
+72809560;Quadra 112
+72809565;Quadra 113
+72809570;Quadra 114
+72809575;Quadra 115
+72809580;Quadra 116
+72809585;Quadra 117
+72809590;Quadra 118
+72809595;Quadra 119
+72809600;Quadra 120
+72809605;Quadra 121
+72809610;Quadra 122
+72809615;Quadra 123
+72809620;Quadra 124
+72809625;Quadra 125
+72809630;Quadra 126
+72809635;Quadra 127
+72809640;Quadra 128
+72809645;Quadra 129
+72809650;Quadra 130
+72809655;Quadra 131
+72809660;Quadra 132
+72809665;Quadra 133
+72809670;Quadra 134
+72810010;Rua Benedito Jose de Morais
+72810020;Avenida Inacio Neto
+72810030;Rua Doutor Emilio Povoa
+72810040;Travessa Doutor Emilio Povoa
+72810050;Rua Delfino Roriz
+72810060;Viela Emilio Povoa
+72810070;Travessa Alagados
+72810080;Rua Senador Gonzaga Jaime
+72810090;Rua Henrique Meireles
+72810100;Rua Florentino Chaves
+72810110;Rua Jose Benedito Teixeira
+72810120;Rua 02
+72810130;Rua Manoel Leles da Rocha
+72810140;Travessa Florentino Chaves
+72810150;Rua Alfredo Machado
+72810160;Avenida Descoberto
+72810170;Avenida Julio Meireles
+72810180;Rua Modesto Machado
+72810190;Rua Abilio Rodrigues
+72810195;Praca Joaquim Luiz Roriz
+72810200;Rua Benjamim Roriz; Rua Benjamin Roriz
+72810210;Rua Professor Arthur Roriz
+72810220;Rua Frei Manoel
+72810230;Avenida Aeroporto
+72810240;Rua Conego Delfino
+72810250;Rua Aleixo Braz
+72810260;Rua Padre Zeferino
+72810270;Rua Operario
+72810280;Rua do Trabalhador
+72810290;Rua Joao Pessoa
+72810300;Rua Presidente Costa e Silva
+72810310;Travessa Jose Silverio
+72810320;Travessa Joaquim de Paula
+72810330;Rua Santa Luzia
+72810401;Quadra E
+72810403;Quadra G
+72810405;Quadra 30
+72810407;Quadra 31
+72810423;Quadra 1
+72810426;Quadra 2
+72810429;Quadra 3
+72810432;Quadra 4
+72810435;Quadra 5
+72810438;Quadra 6
+72810441;Quadra 7
+72810444;Quadra 8
+72810447;Quadra 9
+72810450;Quadra 10
+72810453;Quadra 11
+72810456;Quadra 12
+72810459;Quadra 13
+72810462;Quadra 14
+72810465;Quadra 15
+72810468;Quadra 16
+72810471;Quadra 17
+72810510;Rua Abilio Guimaraes
+72810520;Rua Parana
+72810530;Rua Amazonas
+72810540;Rua Para
+72810550;Rua Sebastiao Carneiro de Mendonca
+72810560;Rua Bahia
+72810570;Rua Independencia
+72810580;Rua 07 de Abril
+72810590;Rua Guanabara
+72810600;Rua Jk
+72811010;Rua Nelson Aguiar
+72811015;Rua Professor Epaminondas de Albuquerque
+72811020;Rua Esperanca
+72811030;Rua Santa Cruz
+72811035;Rua Josue Florentino Meireles
+72811040;Rua Wanessa Meireles Bras
+72811050;Rua Sete Quedas
+72811060;Avenida Descoberto
+72811070;Rua B
+72811080;Rua Joao Manuel
+72811090;Rua G
+72811095;Rua dos Goianos
+72811100;Rua Padre Zezinho
+72811110;Rua Tancredo Neves
+72811120;Rua Antonio Bueno de Azevedo
+72811130;Rua Padre Antonio
+72811210;Rua agata
+72811220;Rua Cristal
+72811230;Rua Isabel Silveira
+72811240;Rua Ouro Branco
+34000670;A av M D'agua II
+34002275;A r Vl Marise
+34002315;A r Cascalho
+34003020;A r C Curitiba
+34004585;A r Vl Industrial II
+34007025;A r Vl Campestre
+34007035;A r G Reais
+34007586;A r Jd Mte Verde
+34009003;A r C Velha
+34012332;A r Cj Hab P Gaetani
+34012558;A r At Gaia
+34012696;A r H Bicalho
+34015030;A r V S Souci
+34000598;Abel Saturnino de Melo r Mingu
+34000607;Abel Saturnino de Melo tv Mingu
+34012492;Abilio Antonio Ribeiro r B Fama
+34000036;Abilio Tito Couto tv Centro
+34000150;Abolicao r Centro
+34004172;Abraao Lincoln r Vl S J 1 Secao
+34004745;Acacias das al O Vo Mansões
+34006003;Acacias das r Vle Sereno
+34007000;Acacias das r V Terrasse I
+34015140;Acacias das r J Petropolis
+34018094;Acacias das r Alphaville Lga Ingleses
+34002065;Adair Goncalves Pereira Radialista r O B Pena II
+34007310;Adamello al Vl Alpina
+34004478;Adao Lucindo tv Vl Aparecida
+34012694;Adelaide Pedrosa do Vale ate 99997/99998 r H Bicalho
+34012740;Adelaide Pedrosa do Vale de 1/2 ao fim r A Horta
+34000357;Adolfo Magalhaes lado impar r Rosario
+34000102;Adolfo Magalhaes lado par r Centro
+34011072;Adrasteia r Vle Sol
+34002035;Afonso Cunha Pereira r Ch B Retiro
+34004814;Afonso Moura de Castro Coronel r Ipe
+34006112;Afonso Pena Mascarenhas r Jardinaves
+34003379;Afranio Pinto de Almeida r Vl M Carmo
+34004805;agata al Ipe
+34002198;Agenor Lopes r Vle Esperanca
+34012688;Agostinho Rodrigues de Melo pc H Bicalho
+34002285;Agripino Mendes Magalhaes r Vl Marise
+34002452;agua Marinha r B Ceu
+34007182;Aguiar Conde de al Conde
+34007233;Agulhas Negras das pc Vl D Rey
+34007718;Alaska av Jd Canada
+34001217;Albertina Lopes Guimaraes ate 185 lado impar r Vl Lacerda
+34002330;Albertina Lopes Guimaraes ate 184 lado par r Cascalho
+34001263;Albertina Lopes Guimaraes de 186 ao fim lado par r Vl Passos
+34001220;Albertina Lopes Guimaraes de 187 ao fim lado impar r Cristais II
+34001238;Alberto Lemos Mota r Cristais II
+34001208;Alberto Tofanelli r Vl Lacerda
+34004890;Aldebaran al V Montagne
+34003085;Aldebaran r Qtas Sol
+34000210;Aldo Zanini Professor av Centro
+34001040;Aldo Zanini Professor av Alvorada
+34001098;Aldo Zanini Professor av Prq Sto Antonio
+34001161;Aldo Zanini Professor av Cristais
+34001241;Aldo Zanini Professor av Cristais II
+34001272;Aldo Zanini Professor av Vl Passos
+34001322;Aldo Zanini Professor av Vl Operaria
+34003235;Aldo Zanini Professor av B Jardim
+34003250;Aldo Zanini Professor av Quintas
+34003067;Alfa r Qtas Sol
+34004606;Alfredo D'avila Silva Neto r Vl Odete
+34003093;Alfredo Ragonezi r Ch Cristais
+34000342;Aliados dos tv Rosario
+34007616;Allix r Jd Canada
+34003298;Alpes dos r At Quintas
+34007294;Alpina av Vl Alpina
+34001284;Alvarenga Peixoto r Vl Passos
+34018038;Alvarenga Peixoto r Alphaville Lga Ingleses
+34003214;alvares Cabral ate 99999 lado impar r Jd Americas
+34003265;alvares Cabral r Quintas
+34003238;alvares Cabral ate 99998 lado par r B Jardim
+34018030;alvares Maciel r Alphaville Lga Ingleses
+34008077;Alvoradas das r Vle Cristais
+34002321;Amadeu Moreira r Cascalho
+34011084;Amalteia r Vle Sol
+34004660;Amanda al P Pombo
+34000312;Amelia de Magalhaes Pessoa r Centro
+34004721;Amendoeiras das al O Vo Mansões
+34007383;Amendoeiras das al Bsq Ribeira
+34019010;Amendoeiras das al Etn Estoril I
+34015185;Amendoeiras das r J Petropolis
+34003196;Americas das r Jd Americas
+34000189;Americo Coelho Padre ate 99/100 r Centro
+34003512;Americo Coelho Padre de 101/102 ao fim r Retiro
+34001190;Americo Fogli r Vl Lacerda
+34000586;Americo Teodoro Rocha r Mingu
+34012185;Ametista r Vl Ouro
+34009595;Amigo do Rei al Pasargada
+34012250;Aminta Demetrio tv Cpo Pires
+34015265;Amoras das r J Petropolis
+34004573;Ana Alves Silva r Vl Industrial II
+34011141;Ananque r Vle Sol
+34003294;Andes dos r At Quintas
+34007355;Andorinha r Etn Serrana
+34011206;Andorinha da al Lga Miguelao
+34002184;Anesia de Matos Guimaraes Professora r Vl S Luiz
+34015240;Angelins dos r J Petropolis
+34000081;Anibal Moraes Quintao Doutor r Centro
+34004882;Antares al V Montagne
+34003082;Antares r Qtas Sol
+34000141;Antenor Martins Silva tv Centro
+34002175;Antonieta Dias de Souza Professora r Vl S Luiz
+34000099;Antonino Fonseca Junior Doutor r Centro
+34002333;Antonio Aleixo tv Cascalho
+34003023;Antonio Andre de Oliveira r C Curitiba
+34004096;Antonio Bernardino Lopes ate 99/100 r Vl Madeira
+34004202;Antonio Bernardino Lopes de 101/102 ao fim r Silicoticos
+34004330;Antonio Carlos Jobim Maestro r L Cottage
+34004040;Antonio Carlos Presidente r Prq Aurilandia
+34004126;Antonio Carlos Presidente r Vl S J 2 Secao
+34004163;Antonio Carlos Presidente r Vl S J 1 Secao
+34000117;Antonio Carvalho de Aguiar r Centro
+34004540;Antonio de Padua Santo r Jd Serrano
+34012853;Antonio de Paula Santos lado impar av Sta Rita
+34012840;Antonio de Paula Santos av Vl I Amarelo
+34002131;Antonio Ferreira Dias r O B Pena II
+34009006;Antonio Ferreira Passos Conselheiro r C Velha
+34004229;Antonio Francisco Machado Mineiro r Bela Vista
+34004020;Antonio Goncalves Cruz r Prq Aurilandia
+34002172;Antonio Januario r Vl S Luiz
+34000120;Antonio Jardim lado impar r Centro
+34000372;Antonio Jardim lado par r Rosario
+34003518;Antonio Lopes Almeida Padre r Retiro
+34000291;Antonio Manoel r Centro
+34003482;Antonio Nereu Filho r Cariocas
+34003277;Antonio Nicolau Wardi Doutor r Quintas
+34003557;Antonio Santo r Retiro
+34001424;Antonio Serafim Silveira av Matadouro
+34002245;Antonio Tiburcio r Vl Mte Castelo
+34000577;Antonio Vicente Rodrigues r Mingu
+34002399;Aparecida Nossa Senhora r Cruzeiro
+34015125;Aracas dos r J Petropolis
+34018084;Aracas dos r Alphaville Lga Ingleses
+34003423;Aracy Dornas r Cabeceiras
+34012360;Araguari r Faz Benito
+34007370;Arapongas r Etn Serrana
+34004393;Arara Azul al Res Vle Araras
+34004399;Arara de Lear al Res Vle Araras
+34007364;Araras das r Etn Serrana
+34018088;Araucarias das r Alphaville Lga Ingleses
+34012352;Araxa r Faz Benito
+34007146;Arcos Conde dos al Conde
+34001454;Areiao do Matadouro ate 461/462 r Matadouro
+34002530;Areiao do Matadouro de 464/465 ao fim r A Matadouro
+34012484;Argemiro Julio r B Fama
+34000610;Argenico Jose Silva r M D Baixo
+34003210;Argentina r Jd Americas
+34018396;Argentina da r Baln A Limpa
+34011090;Ariel r Vle Sol
+34002107;Arisio da Silva r O B Pena II
+34000096;Aristides Coronel pc Centro
+34001324;Aristides Martins r Vl Operaria
+34001346;Aristides Martins tv Vl Operaria
+34012480;Aristino Paulo de Deus r B Fama
+34003440;Arlindo Vieira r Cariocas
+34002143;Armando Jeronimo Expedicionario r O B Pena II
+34007395;Aroeiras das al Bsq Ribeira
+34015130;Aroeiras das r J Petropolis
+34001366;Arthur Bernardes r Bonfim
+34000270;Arthur Bernardes lado par r Centro
+34018279;Artifices r Baln A Limpa
+34018074;arvores das al Alphaville Lga Ingleses
+34004024;Ary Barroso ate 99999 lado impar r Prq Aurilandia
+34004141;Ary Barroso de 1/2 ao fim r Vl S J 2 Secao
+34004062;Ary Barroso ate 99998 lado par r Vl S J 3 Secao
+34000309;Assuncao Expedicionario pc Centro
+34011111;Atlas r Vle Sol
+34000574;Augusto Bernardino r Mingu
+34000159;Augusto de Lima r Centro
+34000105;Augusto Magalhaes r Centro
+34007602;Aurora r Jd Canada
+34009568;Aurora da al Pasargada
+34018315;austria da r Baln A Limpa
+34002423;Auxiliadora Nossa Senhora r Cruzeiro
+34011209;Azaleia da al Lga Miguelao
+34010540;Azaleias das av Qtas Mro Chapeu
+34008071;Azul da Amplidao r Vle Cristais
+34000676;B r M D'agua II
+34002239;B r Vl Mte Castelo
+34002265;B r Vl Marise
+34004582;B r Vl Industrial II
+34004823;B r Ipe
+34007589;B r Jd Mte Verde
+34012706;B r H Bicalho
+34015035;B r V S Souci
+34007040;B Um r G Reais
+34018360;Bancarios dos r Baln A Limpa
+34018351;Banqueiros dos r Baln A Limpa
+34000430;Banqueta do Bananal r Boa Vista
+34012775;Banqueta do Matozinhos r Matozinhos
+34018036;Barbara Heliodora r Alphaville Lga Ingleses
+34001330;Barbara Santa r Vl Operaria
+34007152;Barca Conde da al Conde
+34001146;Bauxita r Cristais
+34008886;Bayacum do al Prq Engenho
+34004312;Beija Flor al Res Sul
+34001406;Beijo Wardi tv Matadouro
+34007073;Bellevue r Vl Castela
+34002336;Belmiro Braga r Cascalho
+34001369;Belmiro da Silveira lado impar r Bonfim
+34000267;Belmiro da Silveira lado par r Centro
+34007094;Belmonte r Vl Castela
+34007316;BemTeVi r Vl Alpina
+34007367;BemTeVi r Etn Serrana
+34012290;Benedito Alves Nazareth lado impar av Cpo Pires
+34012508;Benedito Alves Nazareth lado impar av B Fama
+34012280;Benedito Alves Nazareth lado par av Cpo Pires
+34012512;Benedito Alves Nazareth lado par av B Fama
+34000273;Benedito Valadares r Centro
+34001378;Benedito Valadares r Bonfim
+34018324;Benjamim Guimaraes av Baln A Limpa
+34007770;Benson r Jd Canada
+34000186;Benvinda da Cruz r Centro
+34000339;Benvinda da Cruz r Rosario
+34000279;Bernardino de Lima pc Centro
+34007298;Bernardo Sao al Vl Alpina
+34003073;Beta r Qtas Sol
+34000168;Bias Fortes r Centro
+34000171;Bibina Sales r Centro
+34007176;Bobadela Conde de al Conde
+34003208;Bolivia r Jd Americas
+34018303;Bolivia r Baln A Limpa
+34001381;Bonfim do pc Bonfim
+34000336;Bonsera Santa Cruz r Rosario
+34003506;Bonsera Santa Rosa r Retiro
+34001354;Borba Gato tv Vl Operaria
+34007306;Bormio al Vl Alpina
+34018072;Bouganvilles dos r Alphaville Lga Ingleses
+34007020;Bougavilles das r Vl Campestre
+34015195;Bounganvilles dos r J Petropolis
+34007660;BR040 ate 99998 lado par rod Jd Canada
+34018240;BR040 de 2 ao fim lado par rod Baln A Limpa
+34012670;Braga r H Bicalho
+34003461;Bras da Silva r Cariocas
+34003150;Brasil r Ch S Ramos
+34018387;Brasil do r Baln A Limpa
+34001448;Brasilia r Matadouro
+34009257;Braunas das al Prq Jd Amanda
+34015160;Braunas das r J Petropolis
+34011233;Brisa da al Lga Miguelao
+34007005;Bromelias das ate 99997/99998 r V Terrasse I
+34007010;Bromelias das de 1/2 ao fim r V Terrasse II
+34018108;Bromelias das r Alphaville Lga Ingleses
+34001334;Brumadinho lado impar r Vl Operaria
+34000246;Brumadinho lado par r Centro
+34007778;Bufalo r Jd Canada
+34007850;Buganvilia r S Manacas
+34010543;Bunganvilias das r Qtas Mro Chapeu
+34004718;Buritizeiros dos al O Vo Mansões
+34002251;C r Vl Mte Castelo
+34002280;C r Vl Marise
+34002312;C r Cascalho
+34004579;C r Vl Industrial II
+34004604;C r Vl Odete
+34007592;C r Jd Mte Verde
+34010530;C r Qtas Morro
+34012548;C r At Gaia
+34012708;C r H Bicalho
+34015045;C r V S Souci
+34007015;Cabiunas das r V Terrasse II
+34008892;Cacauzeiro al Prq
+34000213;Caio Guimaraes Chagas Professor r Centro
+34007730;Caledonia av Jd Canada
+34007854;Calestemus r S Manacas
+34007710;Calgary r Jd Canada
+34003162;California r Ch S Ramos
+34011108;Calipso r Vle Sol
+34011039;Calisto r Vle Sol
+34018102;Camelias das r Alphaville Lga Ingleses
+34012260;Campina Verde r Cpo Pires
+34006062;Campo r Vl Serra
+34000048;Campo Alto r Centro
+34000054;Campo Baixo r Centro
+34000063;Campo do tv Centro
+34009125;Campo do Costa r S S A Claras
+34012240;Campo do Pires r Cpo Pires
+34000300;Campos Sales r Centro
+34018480;Campos Sales r Baln A Limpa
+34007654;Canada av Jd Canada
+34018318;Canada do r Baln A Limpa
+34007292;Canalese al Vl Alpina
+34010549;Canarios dos r Qtas Mro Chapeu
+34010510;Canastra r Qtas Morro
+34007606;Candal r Jd Canada
+34009254;Candeias das al Prq Jd Amanda
+34015105;Candeias das r J Petropolis
+34001202;Candida Alves Maciel r Vl Lacerda
+34007296;Cannobio al Vl Alpina
+34009571;Cantigas das al Pasargada
+34008074;Canto da Esperanca r Vle Cristais
+34008104;Canto das Aves r Vle Cristais
+34010520;Caparao r Qtas Morro
+34010515;Caraca r Qtas Morro
+34018330;Caraibas das r Baln A Limpa
+34007343;Cardeal r Etn Serrana
+34012672;Cardoso r H Bicalho
+34003114;Carijos r Ch Cristais
+34000562;Carlos Chagas r Mingu
+34003159;Carlos Cruz pc Ch S Ramos
+34001226;Carlos Dias r Cristais II
+34003318;Carlos Drummond de Andrade al Quintas II
+34000553;Carlos Gomes r Mingu
+34018453;Carlos Gomes r Baln A Limpa
+34003524;Carlos Roscoe r Retiro
+34003545;Carlos Wanderley r Retiro
+34011138;Carme r Vle Sol
+34000192;Carmem Dias Magalhaes tv Centro
+34002405;Carmo Nossa Senhora do r Cruzeiro
+34000219;Carolina Zanforlin Dias r Centro
+34011018;Caronte r Vle Sol
+34000640;Carvoeira da r M D'agua
+34002345;Cascalho do tv Cascalho
+34007696;Cassiar r Jd Canada
+34001290;Cassimiro de Abreu r Vl Passos
+34000045;Cassio Magnani Doutor r Centro
+34015210;Cassoarinas das r J Petropolis
+34004733;Castanheiras das al O Vo Mansões
+34019000;Castanheiras das al Etn Estoril I
+34007170;Castela Conde de al Conde
+34004016;Castor Cifuentes r Prq Aurilandia
+34004071;Castor Cifuentes r Vl S J 3 Secao
+34001293;Castro Alves r Vl Passos
+34018486;Castro Alves r Baln A Limpa
+34007401;Casuarinas das al Bsq Ribeira
+34012589;Catarina Santa r Vl N Suica
+34018468;Caxambu r Baln A Limpa
+34003566;Caxias Duque de r Retiro
+34001158;Ceara r Cristais
+34003102;Ceara r Ch Cristais
+34003334;Cecilia Meireles al Quintas II
+34001167;Cecilia Santa r Cristais
+34006012;Cedro do r Vle Sereno
+34009260;Cedros dos al Prq Jd Amanda
+34015235;Cedros dos r J Petropolis
+34000001;Celso Clark Lima r Olaria
+34000138;Celso Dias Professor r Centro
+34004892;Centauro al V Montagne
+34006045;Cento e Sessenta e Seis r Vle Sereno
+34004736;Cerejeiras das al O Vo Mansões
+34003515;Cesario Pereira r Retiro
+34000204;Chalmers r Centro
+34007794;Charlles Principe r Jd Canada
+34002202;Chico Mendes r Vle Esperanca
+34003206;Chile lado impar r Jd Americas
+34003183;Chile lado par r Ch S Ramos
+34018321;China da r Baln A Limpa
+34002443;Cianita r B Ceu
+34000051;Cicero Cota r Centro
+34018420;Cientistas dos r Baln A Limpa
+34001078;Cinco r Prq Sto Antonio
+34002080;Cinco r O B Pena II
+34007110;Cinco r Riviera
+34009135;Cinco de Dezembro r S S A Claras
+34004727;Ciprestes al O Vo Mansões
+34018010;Cisne av Alphaville Lga Ingleses
+34000276;Clark r Centro
+34012330;Claudio Alberto Pires do Couto r Cj Hab P Gaetani
+34001278;Claudio Manoel r Vl Passos
+34018048;Claudio Manoel r Alphaville Lga Ingleses
+34002098;Clemer Gouvea r O B Pena II
+34007608;Clinton r Jd Canada
+34007874;Clube do r S Manacas
+34007349;Codornas das r Etn Serrana
+34004053;Coelho Neto r Vl S J 3 Secao
+34007352;Colibri r Etn Serrana
+34018002;College av Alphaville Lga Ingleses
+34003180;Colombia r Ch S Ramos
+34003204;Colombia r Jd Americas
+34018375;Colombia r Baln A Limpa
+34007754;Columbia r Jd Canada
+34018348;Comerciantes dos r Baln A Limpa
+34012646;Conceicao Maria Duarte r H Bicalho
+34002408;Conceicao Nossa Senhora da r Cruzeiro
+34003111;Congonhas r Ch Cristais
+34004555;Congonhas r Jd Serrano
+34018018;Congonhas r Alphaville Lga Ingleses
+34007604;Coniston r Jd Canada
+34008050;Constelacões av Vle Cristais
+34018339;Contadores dos r Baln A Limpa
+34003108;Contagem r Ch Cristais
+34003120;Contorno do r Ch Cristais
+34006130;Copacabana Nossa Senhora de r Jardinaves
+34015225;Copaibas das r J Petropolis
+34004760;Coqueiros dos lado impar al O Vo M Fundos
+34004748;Coqueiros dos lado par al O Vo Mansões
+34009170;Coqueiros dos al Faz E Ecoville
+34015145;Coqueiros dos r J Petropolis
+34011027;Cordelia r Vle Sol
+34008053;Cores das r Vle Cristais
+34001179;Corinto r – Cristais
+34001229;Corinto r Cristais II
+34001348;Cornelio Vitor Santos r Vl Operaria
+34000111;Correio do tv – Centro
+34018357;Costa Rica r Baln A Limpa
+34003554;Couto Padre r – Retiro
+34011021;Cressida r Vle Sol
+34007698;Creston r Jd Canada
+34004390;Crisalidas das r Res Vle Araras
+34004450;Crisalidas das r Res C Sabara
+34002348;Cristais dos r – Cascalho
+34007624;Cristal r Jd Canada
+34018066;Cristal r Alphaville Lga Ingleses
+34007314;Cristallo al Vl Alpina
+34018297;Cristovao Colombo pc Baln A Limpa
+34000126;Cruz Santa r – Centro
+34000485;Cruz Santa tv Boa Vista
+34001164;Cruzeiro r – Cristais
+34000162;Cruzeiro tv – Centro
+34004896;Cruzeiro do Sul al V Montagne
+34018300;Cubas de r Baln A Limpa
+34003117;Cuiaba r Ch Cristais
+34003099;Curitiba r Ch Cristais
+34003061;Cygnus r Qtas Sol
+34001055;D r – Alvorada
+34002015;D r Ch B Retiro
+34002248;D r Vl Mte Castelo
+34002270;D r Vl Marise
+34010525;D r Qtas Morro
+34012334;D r Cj Hab P Gaetani
+34012712;D r H Bicalho
+34010552;Dalias das r Qtas Mro Chapeu
+34007614;Danigan r Jd Canada
+34003274;Dante Bernardi r – Quintas
+34006216;Darwin Cordeiro Coronel r Jd Torre
+34007650;Davidson r Jd Canada
+34007302;Davos al Vl Alpina
+34000297;Davydoff Lessa r – Centro
+34000550;Defim Moreira r – Mingu
+34002187;Denis Augusto de Araujo Vale Professor r Vl S Luiz
+34000144;Deodoro Fonseca Marechal r Centro
+34018246;Deputados r Baln A Limpa
+34011123;Desdemona r Vle Sol
+34011036;Despina r Vle Sol
+34007125;Dez r – Riviera
+34012652;Dez r H Bicalho
+34002357;Dez de Novembro r Cascalho
+34004083;Dezessete r Vl S J 3 Secao
+34012175;Diamante r Vl Ouro
+34018054;Diamante r Alphaville Lga Ingleses
+34000445;Diamantina r Boa Vista
+34018026;Diamantina r Alphaville Lga Ingleses
+34018006;Diana Princesa av Alphaville Lga Ingleses
+34012674;Dias r H Bicalho
+34000195;Dick Morgam r – Centro
+34018435;Dinamarqueses r Baln A Limpa
+34001400;Diniz Barbosa r Matadouro
+34018405;Diplomatas av Baln A Limpa
+34006203;Djalma de Andrade Jornalista r Piemonte
+34001082;Dois r Prq Sto Antonio
+34004495;Dois r M Mata
+34012468;Dois r B Fama
+34012698;Dois r H Bicalho
+34012785;Dois r – Matozinhos
+34012868;Dois tv Sta Rita
+34000075;Domingos Rodrigues r Centro
+34001352;Domingues Perez r Vl Operaria
+34002411;Dores Nossa Senhora das r Cruzeiro
+34007648;Douglas r Jd Canada
+34007612;Dresden r Jd Canada
+34001058;E r Alvorada
+34002025;E r Ch B Retiro
+34002242;E r Vl Mte Castelo
+34002309;E r Cascalho
+34007583;E r Jd Mte Verde
+34012336;E r Cj Hab P Gaetani
+34012716;E r H Bicalho
+34015040;E r V S Souci
+34012678;eden r H Bicalho
+34002128;Edgar Cassemiro r O B Pena II
+34007091;Edimburgo r Vl Castela
+34001193;Eduardo Alves r Vl Lacerda
+34012373;Eduardo Aymore Jones r N Sra Fatima
+34001384;Eduardo Aymores Jones r Bonfim
+34002384;Eduardo Aymores Jones r Cascalho
+34002390;Eduardo Aymores Jones r Cruzeiro
+34002440;Eduardo Aymores Jones r B Ceu
+34004074;Eduardo Mendes Filho tv Vl S J 3 Secao
+34001275;Efigenia Santa r Vl Passos
+34011135;Elara r Vle Sol
+34003076;Electra r Qtas Sol
+34002089;Elias Abalem Vereador r O B Pena II
+34007790;Elizabeth Rainha r Jd Canada
+34018402;Elizabeth Rainha r Baln A Limpa
+34007642;Elko r Jd Canada
+34003280;Elogio Pimentel ate 179/180 r Quintas
+34003283;Elogio Pimentel de 181 ao fim lado impar r Quintas
+34003509;Elogio Pimentel de 182 ao fim lado par r Retiro
+34012476;Elza Ramos Julio r B Fama
+34002163;Emanuel r Vl S Luiz
+34002190;Emanuel r Vle Esperanca
+34002166;Emanuel tv Vl S Luiz
+34002181;Emilia de Lima Professora r Vl S Luiz
+34009601;Encantado do al Pasargada
+34018384;Engenheiros dos r Baln A Limpa
+34008880;Engenho do al Prq Engenho
+34009100;Engenho do est S S A Claras
+34009190;Engenho do est Faz E Ecoville
+34003476;Enita Seabra Dona r Cariocas
+34008065;Entre as arvores r Vle Cristais
+34003177;Equador r Ch S Ramos
+34003200;Equador r Jd Americas
+34018336;Equador do r Baln A Limpa
+34003560;Erick Daves lado impar r Retiro
+34000004;Erick Daves lado par r Olaria
+34000042;Ernani Ribeiro Silva Doutor r Centro
+34012684;Ernesto Gonzaga r H Bicalho
+34004796;Esmeralda al Ipe
+34002449;Esmeralda av B Ceu
+34003432;Esmeralda r Cabeceiras
+34012155;Esmeralda r Vl Ouro
+34018052;Esmeralda r Alphaville Lga Ingleses
+34010555;Espatodeas das r Qtas Mro Chapeu
+34003429;Esperanca r Cabeceiras
+34015060;Esperanca da al G Park
+34007638;Essex r Jd Canada
+34012692;Estacao da r H Bicalho
+34009586;Estrela da Manha al Pasargada
+34008095;Estrela da Manha r Vle Cristais
+34009583;Estrela da Vida Inteira al Pasargada
+34006089;Estrelas das r Vl Serra
+34004561;Etilandia r Jd Serrano
+34012842;Eucalipto r Vl I Amarelo
+34009233;Eucaliptos dos al Prq Jd Amanda
+34018076;Eucaliptos dos r Alphaville Lga Ingleses
+34001269;Euclides da Cunha r Vl Passos
+34007846;Eucumilha r S Manacas
+34007834;Eugenia r S Manacas
+34002306;Eugenia Clark r Cascalho
+34003446;Eugenio Zanforlin r Cariocas
+34011051;Europa r Vle Sol
+34001336;Eustaquio Padre r Vl Operaria
+34004592;Eva Lage Protzner r Vl Industrial I
+34003302;Evereste r At Quintas
+34001046;F r Alvorada
+34002210;F r Vle Esperanca
+34002236;F r Vl Mte Castelo
+34004594;F r Vl Industrial I
+34012338;F r Cj Hab P Gaetani
+34012530;F r At Gaia
+34012722;F r H Bicalho
+34018399;Farmaceuticos dos r Baln A Limpa
+34006118;Fatima Nossa Senhora de r Jardinaves
+34008889;Fazenda da al Prq Engenho
+34018264;Fazendeiros dos r Baln A Limpa
+34011132;Febe r Vle Sol
+34009565;Felicidade da al Pasargada
+34015055;Felicidade da al G Park
+34018040;Felipe dos Santos r Alphaville Lga Ingleses
+34001390;Felizardo Major r Bonfim
+34001170;Fernandes Tourinho r Cristais
+34000264;Fernao Dias tv Centro
+34004552;Ferros r Jd Serrano
+34004466;Filomena Santa r Vl Aparecida
+34004676;Filomena Santa r Vl N Betania
+34018429;Finlandeses dos r Baln A Limpa
+34006009;Flamboyant al Vle Sereno
+34009239;Flamboyants dos al Prq Jd Amanda
+34015175;Flamboyants dos r J Petropolis
+34018092;Flamboyants dos r Alphaville Lga Ingleses
+34007724;Florenca r Jd Canada
+34007248;Flores das al Etn D Rey
+34009580;Flores das al Pasargada
+34018106;Flores das al Alphaville Lga Ingleses
+34006074;Flores das av Vl Serra
+34010546;Flores das r Qtas Mro Chapeu
+34018477;Floriano Peixoto r Baln A Limpa
+34011075;Fobos r Vle Sol
+34012682;Fonseca r H Bicalho
+34006071;Fonte r Vl Serra
+34018492;Fortaleza r Baln A Limpa
+34007626;Fox r Jd Canada
+34000333;Francisca Barbosa Pena r Rosario
+34009018;Francisca Rezadeira r C Velha
+34000435;Francisco Amancio Sabino r Boa Vista
+34000664;Francisco Avelino de Assis r M D'agua
+34012680;Francisco Avelino de Assis Ministro r H Bicalho
+34001344;Francisco de Paula Lima tv Vl Operaria
+34003563;Francisco de Souza r Retiro
+34003449;Francisco Diogo Felix r Cariocas
+34003268;Francisco Gomes r Quintas
+34003271;Francisco Gomes tv Quintas
+34000360;Francisco Manoel Zeferino tv Rosario
+34003536;Francisco Rocha r Retiro
+34000225;Francisco Rodrigues Barbosa r Centro
+34006106;Francklin Jardim Coronel r Jardinaves
+34000135;Franzen de Lima r Centro
+34002056;Fuad Farah r O B Pena II
+34018378;Funcionarios dos r Baln A Limpa
+34012552;G r At Gaia
+34012726;G r H Bicalho
+34002040;G tv Ch B Retiro
+34006219;Gabriel Rezende Passos Doutor r Jd Torre
+34018008;Gaivota av Alphaville Lga Ingleses
+34011048;Galateia r Vle Sol
+34003058;Galax r Qtas Sol
+34002870;Galo Novo do r G Novo
+34002890;Galo Velho do r G Novo
+34007188;Galveias Conde de al Conde
+34003064;Gama r Qtas Sol
+34007708;Gamix r Jd Canada
+34011042;Ganimedes r Vle Sol
+34018012;Garca av Alphaville Lga Ingleses
+34007340;Garcas das r Etn Serrana
+34018110;Gardenias das r Alphaville Lga Ingleses
+34002351;Garimpo do r Cascalho
+34002354;Garimpo do tv Cascalho
+34012230;Garirobas r Cpo Pires
+34011227;Geada da al Lga Miguelao
+34000156;George Morgan r Centro
+34003405;Gerado Dias Borges av Cabeceiras
+34003479;Gerado Dias Borges av Cariocas
+34003581;Gerado Dias Borges av Retiro
+34012540;Geraldo Barbosa av At Gaia
+34012654;Geraldo dos Santos r H Bicalho
+34002071;Geraldo Ferreira da Fonseca r O B Pena II
+34002020;Geraldo Ferreira das Merces r Ch B Retiro
+34012874;Geraldo Magela Ribeiro r Sta Rita
+34003578;Geraldo Mateus da Silveira tv Retiro
+34000201;Geraldo Villela pc Centro
+34010558;Geranios dos r Qtas Mro Chapeu
+34002086;Gerson Luis Perdigao r O B Pena II
+34000294;Getulio Vargas r Centro
+34003420;Ghandi r Cabeceiras
+34000589;Gilberto Blanco r Mingu
+34004633;Girassois dos al P Pombo
+34011215;Girassois dos al Lga Miguelao
+34018096;Girassois dos r Alphaville Lga Ingleses
+34002393;Gloria Nossa Senhora da r Cruzeiro
+34004335;Godofredo Guedes al L Cottage
+34015180;Goiabeiras das r J Petropolis
+34001442;Goias r Matadouro
+34012598;Goias r Vl N Suica
+34001299;Goncalves Dias r Vl Passos
+34001310;Goncalves Dias r Vl Operaria
+34006080;Gonzales Pecotche r Vl Serra
+34007300;Gotardo Sao al Vl Alpina
+34007692;Govan r Jd Canada
+34018243;Governadores av Baln A Limpa
+34015070;Graca da al G Park
+34002414;Gracas Nossa Senhora das r Cruzeiro
+34004306;Gralhas das al Res Sul
+34002458;Granada r B Ceu
+34007085;Granada r Vl Castela
+34007070;Grandolfo r Vl Castela
+34018070;Grapias r Alphaville Lga Ingleses
+34004300;Graunas das al Res Sul
+34004355;Graunas das al L Cottage
+34007079;Grimaldi r Vl Castela
+34007772;Groenlandia r Jd Canada
+34007862;Grota da r S Manacas
+34009150;Grota Fria da r S S A Claras
+34003174;Guatemala r Ch S Ramos
+34003198;Guatemala r Jd Americas
+34003322;Guimaraes Rosa al Quintas II
+34003032;H r C Curitiba
+34012340;H r Cj Hab P Gaetani
+34012550;H r At Gaia
+34012730;H r H Bicalho
+34018363;Haiti r Baln A Limpa
+34007620;Halifax r Jd Canada
+34007622;Hamilton r Jd Canada
+34007618;Hanover r Jd Canada
+34007704;Hebert r Jd Canada
+34003096;Helena Silva Fernandes r Ch Cristais
+34000249;Henrique Othero av Centro
+34001328;Henrique Othero av Vl Operaria
+34001421;Henrique Pereira Martins r Matadouro
+34001126;Henrique Salome Rodrigues r Vl Pe Valeriano
+34001118;Herculino Pessoa r Vl Pe Valeriano
+34001205;Herculino Pessoa r Vl Lacerda
+34002092;Hernani Olimpio Pessoa Vereador r O B Pena II
+34007630;Heston r Jd Canada
+34015110;Hibiscos dos r J Petropolis
+34012528;Hilda Carvalho Sacramento r At Gaia
+34003256;Hilda Marquezine r Quintas
+34004068;Hilda Sales Ribeiro Professora r Vl S J 3 Secao
+34003306;Himalaia lado impar r At Quintas
+34003310;Himalaia lado par r Quintas II
+34011012;Himalaia r Vle Sol
+34018306;Honduras de r Baln A Limpa
+34012760;Horacio Barbosa r P Balanca
+34009589;Horizontes dos al Pasargada
+34011218;Hortencias das al Lga Miguelao
+34010579;Hortencias das av Qtas Mro Chapeu
+34018114;Hortencias das r Alphaville Lga Ingleses
+34015200;Hortensias das r J Petropolis
+34007640;Hudson r Jd Canada
+34000177;Humberto Campos tv Centro
+34018258;Hungaros dos r Baln A Limpa
+34003079;Hydra r Qtas Sol
+34003029;I r C Curitiba
+34012342;I r Cj Hab P Gaetani
+34012728;I r H Bicalho
+34001312;Iguacu r Vl Operaria
+34012534;Ilza Severino Silva r At Gaia
+34000222;Inacinho Magalhaes r Centro
+34002366;Inacio Antonio de Padua r Cascalho
+34003551;Inacio Fonseca r Retiro
+34003542;Inacio Isidoro r Retiro
+34000153;Inconfidencia r Centro
+34018034;Inconfidentes dos al Alphaville Lga Ingleses
+34000234;Independencia r Centro
+34018333;india da r Baln A Limpa
+34018408;Industriais dos r Baln A Limpa
+34018417;Industriarios dos r Baln A Limpa
+34006042;Inga do al Vle Sereno
+34011054;Io r Vle Sol
+34002110;Iolanda Ragonezi Lopes r O B Pena II
+34007030;Ipe Amarelo r G Reais
+34007858;Ipe Amarelo r S Manacas
+34006015;Ipe Branco r Vle Sereno
+34004799;Ipe do al Ipe
+34007838;Ipe Roxo r S Manacas
+34015205;Ipes Amarelos dos r J Petropolis
+34007404;Ipes dos al Bsq Ribeira
+34009242;Ipes dos al Prq Jd Amanda
+34018080;Ipes dos r Alphaville Lga Ingleses
+34002140;Irene Pereira Lopes r O B Pena II
+34004059;Ireno Dias de Araujo Professor r Vl S J 3 Secao
+34003399;Isabel Princesa ate 99999 lado impar r Cabeceiras
+34004123;Isabel Princesa ate 260 lado par r Vl S J 2 Secao
+34004044;Isabel Princesa de 262 ao fim lado par r Prq Aurilandia
+34004077;Isaura Araujo Professora r Vl S J 3 Secao
+34012648;Isaura Rodrigues Wenceslau r H Bicalho
+34001427;Isolamento do r Matadouro
+34001320;Itabira r Vl Operaria
+34001326;Itabirito r Vl Operaria
+34018441;Italianos dos r Baln A Limpa
+34010500;Itatiaia r Qtas Morro
+34000460;Itauna Visconde de r Boa Vista
+34007714;Ituna r Jd Canada
+34018438;Iugoslavos dos r Baln A Limpa
+34012544;Ivan Seabra Silva r At Gaia
+34012877;Ivone Rodrigues Guimaraes tv Sta Rita
+34012344;J r Cj Hab P Gaetani
+34012724;J r H Bicalho
+34007870;Jacaranda r S Manacas
+34007389;Jacarandas dos al Bsq Ribeira
+34009263;Jacarandas dos al Prq Jd Amanda
+34019020;Jacarandas dos al Etn Estoril I
+34015230;Jacarandas dos r J Petropolis
+34007866;Jambreiro do r S Manacas
+34007774;James av Jd Canada
+34004460;Jandaias das al Vl Aparecida
+34004590;Januario Carneiro lado impar rod Vl Industrial I
+34004639;Januario Carneiro lado impar rod P Pombo
+34004703;Januario Carneiro lado impar rod O Vo Mansões
+34004817;Januario Carneiro lado impar rod Ipe
+34006000;Januario Carneiro lado impar rod Vle Sereno
+34004642;Januario Carneiro lado par rod P Pombo
+34004706;Januario Carneiro lado par rod O Vo Mansões
+34004830;Januario Carneiro lado par rod Res Europa
+34002119;Januario Laurindo Carneiro av O B Pena II
+34018252;Japao do r Baln A Limpa
+34011126;Japeto r Vle Sol
+34012660;Jardim r H Bicalho
+34010582;Jasmins dos av Qtas Mro Chapeu
+34015190;Jasmins dos r J Petropolis
+34012844;Jatoba r Vl I Amarelo
+34007407;Jatobas dos al Bsq Ribeira
+34009230;Jatobas dos r Prq Jd Amanda
+34018068;Jatobas dos r Alphaville Lga Ingleses
+34006033;Jequitiba r Vle Sereno
+34015250;Jequitibas dos r J Petropolis
+34018086;Jequitibas dos r Alphaville Lga Ingleses
+34012522;Jeronimo Firmino dos Reis av At Gaia
+34000258;Jesus Othero lado impar r Centro
+34001342;Jesus Othero lado par r Vl Operaria
+34002125;Joao Alexandre da Mata r O B Pena II
+34012532;Joao Coelho da Silva r At Gaia
+34000601;Joao Crisostomo Gomes r Mingu
+34002160;Joao da Luz Fernandes r Vl S Luiz
+34004318;Joao de Barro al Res Sul
+34000180;Joao de Deus Padre ate 159/160 r Centro
+34000330;Joao de Deus Padre de 162/163 ao fim r Rosario
+34004226;Joao de Paula Mendes Mineiro r Bela Vista
+34018020;Joao Del Rey Sao r Alphaville Lga Ingleses
+34003464;Joao Evangelista Vieira r Cariocas
+34003485;Joao Furtado Vereador r Cariocas
+34012732;Joao Honorato Neto r H Bicalho
+34012662;Joao Isnard Marcio Pinto r H Bicalho
+34002104;Joao Marcelino Padre r O B Pena II
+34004220;Joao Pedro Ferreira Mineiro r Bela Vista
+34000658;Joao Pedro Silveira r M D'agua
+34000066;Joao Pena Doutor r Centro
+34004685;Joao Sao r Vl N Betania
+34012676;Joao Sao r H Bicalho
+34004093;Joao Sergio Souza Doutor r Vl Madeira
+34004028;Joao VI Dom r Prq Aurilandia
+34004205;Joao Vidal Silva r Silicoticos
+34004223;Joaquim Calixto Mineiro r Bela Vista
+34001049;Joaquim Camilo Faria r Alvorada
+34001199;Joaquim Coelho Padre r Vl Lacerda
+34000030;Joaquim Eloy de Azevedo ate 99997/99998 r Centro
+34000013;Joaquim Eloy de Azevedo de 1/2 ao fim r Olaria
+34002378;Joaquim Henrique do Amparo r Cascalho
+34003123;Joaquim Jorge de Almeida tv Ch Cristais
+34000084;Joaquim Marcelino Coronel r Centro
+34018465;Joaquim Nabuco r Baln A Limpa
+34000450;Joaquim Nabuco tv Boa Vista
+34004193;Joaquim Roberto Souza r Silicoticos
+34004150;Joaquim Venancio Soares r Vl S J 2 Secao
+34004160;Joaquim Venancio Soares r Vl S J 1 Secao
+34004056;Jonas Nazare Santiago tv Vl S J 3 Secao
+34006206;Jorge Marini r Piemonte
+34001173;Jorge Sao r Cristais
+34001235;Jorge Sao r Cristais II
+34000039;Jorge Sao tv Centro
+34003370;Jose Acacio do Rosario r Vl M Carmo
+34002030;Jose Agostinho r Ch B Retiro
+34002113;Jose Agostinho r O B Pena II
+34009015;Jose Agostinho Bonzi r C Velha
+34001247;Jose Alexandre r Cristais II
+34000198;Jose Alves de Andrade r Centro
+34001244;Jose Antonio Tiburcio r Cristais II
+34000252;Jose Batista Vereador r Centro
+34001372;Jose Bernardo de Barros lado impar av Bonfim
+34002342;Jose Bernardo de Barros lado impar av Cascalho
+34001296;Jose Bernardo de Barros av Vl Passos
+34002116;Jose Bernardo de Barros av O B Pena II
+34002178;Jose Bernardo de Barros av Vl S Luiz
+34000303;Jose Bernardo de Barros lado par av Centro
+34001070;Jose Bernardo de Barros lado par av Prq Sto Antonio
+34001110;Jose Bernardo de Barros lado par av Vl Pe Valeriano
+34001214;Jose Bernardo de Barros lado par av Vl Lacerda
+34001363;Jose Bernardo de Barros lado par av Bonfim
+34002339;Jose Bernardo de Barros lado par av Cascalho
+34002053;Jose Braga da Silva r O B Pena II
+34003259;Jose Brasil Dias ate 365/366 r Quintas
+34003241;Jose Brasil Dias de 367/368 ao fim r B Jardim
+34000495;Jose Caldeira Enfermeiro r Boa Vista
+34001043;Jose Carlindo Filho r Alvorada
+34012668;Jose Cirilo r H Bicalho
+34001375;Jose da Cruz Lacerda ate 114/115 r Bonfim
+34002369;Jose da Cruz Lacerda de 116/117 ao fim r Cascalho
+34000090;Jose D'avila r Centro
+34001266;Jose de Alencar r Vl Passos
+34006210;Jose de Alencar Padre r Jd Torre
+34003533;Jose de Melo r Retiro
+34012496;Jose de Oliveira r B Fama
+34012520;Jose de Oliveira r At Gaia
+34000315;Jose de Oliveira Junior r Centro
+34000565;Jose do Carmo r Mingu
+34006100;Jose Esteves de avila r Jardinaves
+34012546;Jose Felix dos Santos r At Gaia
+34012370;Jose Francisco da Silva lado impar rod N Sra Fatima
+34002000;Jose Francisco da Silva rod Ch B Retiro
+34002050;Jose Francisco da Silva rod O B Pena II
+34002233;Jose Francisco da Silva rod Vl Mte Castelo
+34012350;Jose Francisco da Silva rod Faz Benito
+34002214;Jose Francisco da Silva lado par rod Vle Esperanca
+34002260;Jose Francisco da Silva lado par rod Vl Marise
+34002300;Jose Francisco da Silva lado par rod Cascalho
+34004000;Jose Francisco da Silva lado par rod Prq Aurilandia
+34004050;Jose Francisco da Silva lado par rod Vl S J 3 Secao
+34001122;Jose Guedes Fernandes r Vl Pe Valeriano
+34001149;Jose Guedes Fernandes r Cristais
+34002005;Jose Gurgel Junior r Ch B Retiro
+34003548;Jose Gustavo r Retiro
+34000568;Jose Joaquim de Souza r Mingu
+34002077;Jose Leite da Paixao r O B Pena II
+34003373;Jose Liberato r Vl M Carmo
+34001316;Jose Liberato Rodrigues r Vl Operaria
+34000646;Jose Maria Pinto Expedicionario r M D'agua
+34002194;Jose Moreira r Vle Esperanca
+34000595;Jose Nelson r Mingu
+34000255;Jose Nery dos Santos ate 99997/99998 r Centro
+34001332;Jose Nery dos Santos de 1/2 ao fim r Vl Operaria
+34003262;Jose Nicolau Cardoso r Quintas
+34000571;Jose Pedro de Deus r Mingu
+34000060;Jose Pires do Couto r Centro
+34003572;Jose Raimundo Nonato Couto Doutor r Retiro
+34000069;Jose Ribeiro da Fonseca Doutor r Centro
+34002169;Jose Rodrigues da Silva r Vl S Luiz
+34004105;Jose Rodrigues Lopes r Vl Madeira
+34000231;Jose Sabino Duarte r Centro
+34000351;Jose Sao r Rosario
+34004688;Jose Sao r Vl N Betania
+34000369;Jose Sao tv Rosario
+34000592;Jose Silvestre Barbosa r Mingu
+34003521;Jose Taitson r Retiro
+34012220;Jose Teofilo do Valle r Cpo Pires
+34000114;Jose Wanderley lado impar r Centro
+34000363;Jose Wanderley lado par r Rosario
+34009012;Josefina Fabeis r C Velha
+34004772;Josefina Ferreira Zauza r O Vo M Fundos
+34003458;Joviano de Assis Ferreira r Cariocas
+34004487;Judas Tadeu Sao r Vl Aparecida
+34004673;Judas Tadeu Sao r Vl N Betania
+34018369;Juizes dos av Baln A Limpa
+34011120;Juliet r Vle Sol
+34006173;Julio Soares Doutor r Jd Mangabeiras
+34011015;Jupiter r Vle Sol
+34018414;Jupiter r Baln A Limpa
+34007358;Juritis dos r Etn Serrana
+34000016;Juvenal Souza Costa Professor r Olaria
+34012526;K r At Gaia
+34012720;K r H Bicalho
+34007684;Kalama r Jd Canada
+34007740;Kalamazo r Jd Canada
+34007736;Kanapolis r Jd Canada
+34007686;Kansas r Jd Canada
+34007674;Katarina r Jd Canada
+34007700;Kelsey r Jd Canada
+34007734;Kelson r Jd Canada
+34007644;Kennedy r Jd Canada
+34003470;Kennedy Presidente ate 169 lado impar av Cariocas
+34003473;Kennedy Presidente ate 168 lado par av Cariocas
+34003417;Kennedy Presidente de 170 a 678 lado par av Cabeceiras
+34003426;Kennedy Presidente de 171 a 389 lado impar av Cabeceiras
+34003376;Kennedy Presidente de 391 a 679 lado impar av Vl M Carmo
+34003411;Kennedy Presidente de 680 a 730 lado par av Cabeceiras
+34003414;Kennedy Presidente de 681 a 729 lado impar av Cabeceiras
+34004181;Kennedy Presidente de 731 a 1199 lado impar av Vl S J 1 Secao
+34003402;Kennedy Presidente de 732 a 1198 lado par av Cabeceiras
+34004214;Kennedy Presidente de 1200 a 2130 lado par av Silicoticos
+34004211;Kennedy Presidente de 1201 a 1743 lado impar av Silicoticos
+34004090;Kennedy Presidente de 1745 a 1987 lado impar av Vl Madeira
+34004114;Kennedy Presidente de 1988/1989 ao fim av Vl Madeira
+34007732;Kenomi r Jd Canada
+34007750;Kenon r Jd Canada
+34007678;Kent r Jd Canada
+34007682;Kenton r Jd Canada
+34007676;Kerban r Jd Canada
+34007680;Kimball r Jd Canada
+34007694;King r Jd Canada
+34007688;Kingston r Jd Canada
+34007690;Kinistino r Jd Canada
+34007672;Kremilin r Jd Canada
+34012542;L r At Gaia
+34012718;L r H Bicalho
+34007758;Labrador r Jd Canada
+34018459;Lambari r Baln A Limpa
+34007706;Lanigan r Jd Canada
+34011063;Larissa r Vle Sol
+34007712;Latuque r Jd Canada
+34003382;Laudelino Cordeiro r Vl M Carmo
+34004570;Laudelino Vicente Silva r Vl Industrial II
+34003026;Lauro Magalhaes Santeiro r C Curitiba
+34003105;Lauro Magalhaes Santeiro r Ch Cristais
+34003220;Lauro Magalhaes Santeiro r B Jardim
+34003253;Lauro Magalhaes Santeiro r Quintas
+34003212;Lauro Magalhaes Santeiro lado par r Jd Americas
+34004888;Leao al V Montagne
+34011003;Leda r Vle Sol
+34002095;Lelia Lobo Jornalista r O B Pena II
+34015075;Lembranca da al G Park
+34000010;Leocadia Gresta Alvisi pc Olaria
+34002381;Leontina Henrique Oliveira tv Cascalho
+34001130;Levindo Jose da Silva r Vl Pe Valeriano
+34012642;Levindo Wanderley r H Bicalho
+34001090;Levy Firmino Alves r Prq Sto Antonio
+34012690;Liberato Augusto r H Bicalho
+34015065;Liberdade da al G Park
+34002327;Liberdade da r Cascalho
+34003452;Lincoln Martins tv Cariocas
+34003035;Lincoln Tolentino lado impar r C Curitiba
+34003090;Lincoln Tolentino lado par r Ch Cristais
+34008098;Lirio do Amanha r Vle Cristais
+34004855;Lirios dos al Bsq Res Jambreiro
+34007244;Lirios dos al Etn D Rey
+34010573;Lirios dos r Qtas Mro Chapeu
+34007286;Locarno al Vl Alpina
+34002426;Lourdes Nossa Senhora de r Cruzeiro
+34012358;Lourenco Sao r Faz Benito
+34004880;Lua al V Montagne
+34011066;Lua da r Vle Sol
+34008059;Luar de Maio do r Vle Cristais
+34009559;Luar do al Pasargada
+34007288;Lucerna al Vl Alpina
+34004602;Lucio Bertoldo Inspetor r Vl Odete
+34000057;Ludovice Raimundo Pessoa r Centro
+34004630;Ludovico Barbosa r P Pombo
+34007290;Lugano al Vl Alpina
+34012554;Luis Seabra Sobrinho r At Gaia
+34012583;Luis Seabra Sobrinho r Vl N Suica
+34018032;Luis Vieira Padre r Alphaville Lga Ingleses
+34003500;Luiz de Freitas Junior r Retiro
+34009120;Luiz Sao r S S A Claras
+34012644;Luiz Vieira r H Bicalho
+34001196;Luiza Lacerda r Vl Lacerda
+34004469;Luiza Lucinda r Vl Aparecida
+34004484;Lunds Doutor r Vl Aparecida
+34004600;Lunds Doutor r Vl Odete
+34004657;Lunds Doutor r P Pombo
+34004670;Lunds Doutor r Vl N Betania
+34004724;Lunds Doutor r O Vo Mansões
+34004766;Lunds Doutor r O Vo M Fundos
+34004790;Lunds Doutor r Ipe
+34008062;Luz Serena da r Vle Cristais
+34001318;Luzia Santa r Vl Operaria
+34012538;M r At Gaia
+34012714;M r H Bicalho
+34000174;Machado de Assis tv Centro
+34004730;Macieiras al O Vo Mansões
+34007628;Mackenzie r Jd Canada
+34009574;Madrigais dos al Pasargada
+34006027;Magnolias das r Vle Sereno
+34006021;Manaca r Vle Sereno
+34007386;Manacas das al Bsq Ribeira
+34015245;Manacas dos r J Petropolis
+34001134;Manasses Alexandre Maestro r Vl Pe Valeriano
+34001140;Manasses Alexandre Maestro r Cristais
+34018489;Manaus r Baln A Limpa
+34004654;Mangabeiras das al P Pombo
+34004715;Mangabeiras das al O Vo Mansões
+34004645;Manoel Moreira Silva r P Pombo
+34010505;Mantiqueira r Qtas Morro
+34004345;Manuel Audaz al L Cottage
+34009550;Manuel Bandeira av Pasargada
+34012770;Manuel Geraldo r Matozinhos
+34012650;Maquina da r H Bicalho
+34012664;Mara Nubia Goncalves r H Bicalho
+34001433;Maranhao r Matadouro
+34006200;Marco Paulo Simon Jardim Doutor av Piemonte
+34012500;Marcolina de Aguiar Silva r B Fama
+34008056;Mares de Montanhas r Vle Cristais
+34007806;Margareth Princesa r Jd Canada
+34001250;Margarida Cassemiro Dona r Cristais II
+34001260;Margarida Cassemiro Dona r Vl Passos
+34010576;Margaridas das r Qtas Mro Chapeu
+34018104;Margaridas das r Alphaville Lga Ingleses
+34007738;Margo r Jd Canada
+34003408;Maria Andreza Alves tv Cabeceiras
+34012702;Maria Augusta Amorim r H Bicalho
+34000093;Maria Barbara Pena Professora r Centro
+34009009;Maria da Gloria Dona r C Velha
+34009090;Maria da Gloria Dona r S S A Claras
+34012460;Maria Dias Siqueira tv B Fama
+34000470;Maria Pertence r Boa Vista
+34000078;Maria Ragonezi Zanforlin tv Centro
+34004199;Maria Rosa Martins r Silicoticos
+34012145;Maria Saldanha Alves r Vl Ouro
+34001287;Marilia de Dirceu r Vl Passos
+34018044;Marilia de Dirceu r Alphaville Lga Ingleses
+34000207;Mario Gomide Morgan tv Centro
+34004036;Mario Martins r Prq Aurilandia
+34004129;Mario Martins r Vl S J 2 Secao
+34000475;Mario Silveira Monsenhor r Boa Vista
+34002068;Marlene Alevato Ferrari r O B Pena II
+34004463;Marques da Silva r Vl Aparecida
+34004876;Marte al V Montagne
+34011060;Marte av Vle Sol
+34018276;Marte r Baln A Limpa
+34007746;Massena r Jd Canada
+34007748;Massey r Jd Canada
+34006086;Mata da r Vl Serra
+34001403;Matadouro do tv Matadouro
+34012595;Mato Grosso r Vl N Suica
+34001114;Maua r Vl Pe Valeriano
+34001152;Maua r Cristais
+34007768;Mel Ville r Jd Canada
+34007878;Melaleuca r S Manacas
+34007742;Melita r Jd Canada
+34000282;Melo Viana r Centro
+34007304;Merano al Vl Alpina
+34004808;Merces Carsalade Villela r Ipe
+34002417;Merces Nossa Senhora das r Cruzeiro
+34011000;Mercurio av Vle Sol
+34003539;Messias Jose Braga Maestro lado impar r Retiro
+34003488;Messias Jose Braga Maestro lado par r Cariocas
+34018282;Metalugicos dos r Baln A Limpa
+34003202;Mexico pc Jd Americas
+34018327;Mexico do r Baln A Limpa
+34012580;MG030 rod Vl N Suica
+34012640;MG030 rod H Bicalho
+34012750;MG030 rod P Balanca
+34012850;MG030 rod Sta Rita
+34007726;Michigan r Jd Canada
+34002206;Miguel Araujo r Vle Esperanca
+34000033;Miguel Couto r Centro
+34000019;Miguel Wardi r Olaria
+34018381;Militares dos r Baln A Limpa
+34007752;Milton r Jd Canada
+34006050;Milton Campos Senador r Vl Serra
+34002254;Milton Ciro Machado r Vl Mte Castelo
+34002290;Milton Ciro Machado r Vl Marise
+34002318;Milton Ciro Machado r Cascalho
+34000087;Mineiro Jose Gomes Pimenta do pc Centro
+34018411;Mineiros dos r Baln A Limpa
+34004884;Miracete al V Montagne
+34011156;Miranda r Vle Sol
+34001340;Miranda Lima r Vl Operaria
+34007744;Miriota r Jd Canada
+34002083;Mirtes Pires de Souza r O B Pena II
+34007792;Mississipi r Jd Canada
+34007103;Monserate r Vl Castela
+34007312;Monte Bernina al Vl Alpina
+34007284;Monte Blanco al Vl Alpina
+34007282;Monte Grappa al Vl Alpina
+34007280;Monte Rosa al Vl Alpina
+34004008;Monte Siao r Prq Aurilandia
+34004012;Monte Sinai r Prq Aurilandia
+34007600;Monte Vista av Jd Canada
+34003326;Monteiro Lobato al Quintas II
+34007720;Montreal av Jd Canada
+34007308;Monviso al Vl Alpina
+34006083;Morro do al Vl Serra
+34015100;Morro dos Pires r J Petropolis
+34001143;Morro Velho r Cristais
+34018273;Motoristas dos r Baln A Limpa
+34009180;Murtas das al Faz E Ecoville
+34012710;N r H Bicalho
+34007766;Nadina r Jd Canada
+34011006;Naiade r Vle Sol
+34010570;Narcisos dos r Qtas Mro Chapeu
+34007764;Natal r Jd Canada
+34012656;Natalicio de Jesus Carsalade r H Bicalho
+34009160;Natureza da al Faz E Ecoville
+34018342;Navegantes dos av Baln A Limpa
+34011236;Neblina da al Lga Miguelao
+34007610;Nebrasca r Jd Canada
+34003455;Nelson Pires do Couto r Cariocas
+34000583;Nelson Rocha r Mingu
+34011009;Nereida r Vle Sol
+34008080;Nevoa Transparente da r Vle Cristais
+34007652;Niagara av Jd Canada
+34012862;Nicacio Esteves Diegues r Sta Rita
+34003153;Nicaragua r Ch S Ramos
+34018354;Nicaragua r Baln A Limpa
+34004543;Nicota Passos r Jd Serrano
+34000072;Nilo Pecanha r Centro
+34004651;Nogueiras das al P Pombo
+34004712;Nogueiras das al O Vo Mansões
+34008083;Noite de Estio r Vle Cristais
+34018444;Noruegueses dos r Baln A Limp
+34009110;Nova Lima bc S S A Claras
+34009105;Nova Lima r S S A Claras
+34018022;Nova Lima r Alphaville Lga Ingleses
+34007131;Nove r Riviera
+34012742;Nove r A Horta
+34008068;Nuvem de Orvalho r Vle Cristais
+34011099;Oberon r Vle Sol
+34009000;Odete Navarro r C Velha
+34004208;Odilon Rodrigues de Brito r Silicoticos
+34011024;Ofelia r Vle Sol
+34010561;Oitis dos r Qtas Mro Chapeu
+34007122;Oito r Riviera
+34004481;Olau Ferreira r Vl Aparecida
+34003314;Olavo Bilac r Quintas II
+34004820;Olavo Carsalade Villela r Ipe
+34004700;Oliveiras das al O Vo Mansões
+34007786;Oliver r Jd Canada
+34004065;Olyntho Calazans r Vl S J 3 Secao
+34003046;omega r Qtas Sol
+34018058;onix r Alphaville Lga Ingleses
+34002059;Onofre Peres Furletti r O B Pena II
+34007646;Ontario r Jd Canada
+34007128;Onze r Riviera
+34009130;Onze de Novembro r S S A Claras
+34003055;Orion r Qtas Sol
+34003229;Orlando Correa r B Jardim
+34002101;Orlando Mozelli Vereador r O B Pena II
+34006053;Orozimbo Nonato Ministro r Vl Serra
+34015220;Orquideas das r J Petropolis
+34018112;Orquideas das r Alphaville Lga Ingleses
+34011239;Orvalho do al Lga Miguelao
+34002375;Oscar Camilo de Oliveira r Cascalho
+34006056;Oscar Niemeyer ate 819/820 al Vl Serra
+34006065;Oscar Niemeyer de 821/822 ao fim al Vl Serra
+34001223;Osorio Martins Dias lado impar r Cristais II
+34001176;Osorio Martins Dias lado par r Cristais
+34012880;Osvaldo Evangelista Santos r Sta Rita
+34003390;Oswaldo Cruz r Cabeceiras
+34012886;Otaviano Alves Novais tv Sta Rita
+34006213;Otaviano de Miranda Coronel r Jd Torre
+34003467;Otaviano Lacerda r Cariocas
+34004032;Otaviano Patrocinio Moreira r Prq Aurilandia
+34004138;Otaviano Patrocinio Moreira r Vl S J 2 Secao
+34007756;Otawa r Jd Canada
+34018423;Ourives r Baln A Limpa
+34018056;Ouro r Alphaville Lga Ingleses
+34000108;Ouro do r Centro
+34018014;Ouro Preto r Alphaville Lga Ingleses
+34000604;Ovidio Jose da Silva r Mingu
+34012570;P r At Gaia
+34011153;Pa r Vle Sol
+34007776;Pabber r Jd Canada
+34006036;Paineiras Branca r Vle Sereno
+34007392;Paineiras das al Bsq Ribeira
+34015155;Paineiras das r J Petropolis
+34006059;Paisagem da r Vl Serra
+34004742;Palmeiras das al O Vo Mansões
+34007398;Palmeiras das al Bsq Ribeira
+34006018;Palmeiras das r Vle Sereno
+34015135;Palmeiras das r J Petropolis
+34009210;Palmeiras Imperial das al Faz E Ecoville
+34004778;Palmyra Roussin r O Vo M Fundos
+34007810;Palo Alto r Jd Canada
+34018312;Panama do r Baln A Limpa
+34011150;Pandora r Vle Sol
+34007796;Paniop r Jd Canada
+34004845;Papoulas al Bsq Res Jambreiro
+34018098;Papoulas das r Alphaville Lga Ingleses
+34003171;Paraguai r Ch S Ramos
+34003194;Paraguai r Jd Americas
+34018390;Paraguai do r Baln A Limpa
+34001451;Paraiba r Matadouro
+34007788;Paraiso r Jd Canada
+34015050;Paraiso do al G Park
+34001094;Parana r Prq Sto Antonio
+34001155;Parana r Cristais
+34001232;Parana r Cristais II
+34007812;Pasper r Jd Canada
+34006006;Pau Brasil r Vle Sereno
+34015150;Pau Brasil do r J Petropolis
+34001415;Paulo Sao r Matadouro
+34004682;Paulo Sao r Vl N Betania
+34001409;Pedreira da r Matadouro
+34003290;Pedreira das Quintas tv At Quintas
+34018483;Pedro Americo r Baln A Limpa
+34003443;Pedro Barbosa da Silva r Cariocas
+34003569;Pedro Damiao Leite tv Retiro
+34000165;Pedro Evangelista Cafe tv Centro
+34004166;Pedro I Dom r Vl S J 1 Secao
+34006124;Pedro Ludovico Teixeira Doutor r Jardinaves
+34000240;Pedro Matias Horta r Centro
+34012686;Pedro Paulo de Jesus r H Bicalho
+34004679;Pedro Sao r Vl N Betania
+34004878;Pegaso al V Montagne
+34002429;Penha Nossa Senhora da r Cruzeiro
+34007784;Pensilvania r Jd Canada
+34007346;Perdizes das r Etn Serrana
+34000288;Pereira de Freitas r Centro
+34007580;Perimetral r Jd Mte Verde
+34004840;Perimetral das Orquideas al Bsq Res Jambreiro
+34001439;Pernambuco r Matadouro
+34009220;Peroba do Campo al Faz E Ecoville
+34009200;Peroba Rosa al Faz E Ecoville
+34009248;Perobas das al Prq Jd Amanda
+34002420;Perpetuo Socorro Nossa Senhora do r Cruzeiro
+34003070;Perseus r Qtas Sol
+34018366;Peru do r Baln A Limpa
+34004850;Petunias al Bsq Res Jambreiro
+34004899;Phoenix al V Montagne
+34003043;Phoenix r Qtas Sol
+34001445;Piaui r Matadouro
+34018004;Picadilly av Alphaville Lga Ingleses
+34007227;Pico da Bandeira pc Vl D Rey
+34007200;Pico da Neblina pc Vl D Rey
+34002402;Piedade Nossa Senhora da r Cruzeiro
+34007782;Pierson r Jd Canada
+34002396;Pilar Nossa Senhora do r Cruzeiro
+34007780;Piney r Jd Canada
+34007140;Pinhal Conde do al Conde
+34004648;Pinheiros dos al P Pombo
+34004709;Pinheiros dos al O Vo Mansões
+34007380;Pinheiros dos al Bsq Ribeira
+34015260;Pinheiros dos r J Petropolis
+34018082;Pinheiros dos r Alphaville Lga Ingleses
+34000348;Pinheiros dos tv Rosario
+34010564;Pintassilgos dos r Qtas Mro Chapeu
+34018285;Pintores dos r Baln A Limpa
+34004147;Pio Xll r Vl S J 2 Secao
+34015165;Pitangueiras das r J Petropolis
+34007830;Platano r S Manacas
+34009592;Plenitude da al Pasargada
+34012354;Pocos de Caldas r Faz Benito
+34018471;Pocos de Caldas r Baln A Limpa
+34009577;Poesia da al Pasargada
+34018291;Poloneses dos r Baln A Limpa
+34007800;Port Dover r Jd Canada
+34011114;Portia r Vle Sol
+34003156;Porto Rico r Ch S Ramos
+34018432;Portugueses dos av Baln A Limpa
+34007798;Potany r Jd Canada
+34007842;Praca da r S Manacas
+34004217;Prados r Silicoticos
+34018060;Prata r Alphaville Lga Ingleses
+34004894;Presepio al V Montagne
+34018261;Presidentes dos av Baln A Limpa
+34007804;Preston r Jd Canada
+34002360;Primeiro de Maio r Cascalho
+34018270;Professores dos r Baln A Limpa
+34000556;Projetada r Mingu
+34011147;Prometeu r Vle Sol
+34007802;Puebla r Jd Canada
+34011102;Punck r Vle Sol
+34012566;Q r At Gaia
+34007702;Quaker r Jd Canada
+34008895;Quaresmeira al Prq Engenho
+34009236;Quaresmeiras das al Prq Jd Amanda
+34015120;Quaresmeiras das r J Petropolis
+34012030;Quatorze bc V Geraes
+34001086;Quatro r Prq Sto Antonio
+34004500;Quatro r M Mata
+34007137;Quatro r Riviera
+34012704;Quatro r H Bicalho
+34012883;Quatro r Sta Rita
+34007634;Quebec av Jd Canada
+34011200;QueroQueros dos al Lga Miguelao
+34007728;Quesnel r Jd Canada
+34011093;Quinta Avenida av Vle Sol
+34000228;Quintiliana Carsalade Rossi r Centro
+34000455;Quintino Bocaiuva r Boa Vista
+34012025;Quinze r V Geraes
+34012562;R r At Gaia
+34001412;Radio Itatiaia r Matadouro
+34002149;Raimundo Bruno Benigno r O B Pena II
+34004099;Raimundo Ferreira Fonseca r Vl Madeira
+34000465;Raimundo Pereira Guimaraes Expedicionario pc Boa Vista
+34012536;Raimundo Seabra Pedrosa r At Gaia
+34001314;Raposos r Vl Operaria
+34004549;Ravenopolis r Jd Serrano
+34018016;Real al Alphaville Lga Ingleses
+34018426;Recife r Baln A Limpa
+34018000;Regent av Alphaville Lga Ingleses
+34007082;Reis Magos av Vl Castela
+34002880;Represa da r G Novo
+34000237;Republica r Centro
+34018474;Republica da pc Baln A Limpa
+34018090;Resedas dos r Alphaville Lga Ingleses
+34000306;Rezende r Centro
+34004340;Riggi Doutor r L Cottage
+34004396;Riggi Doutor r Res Vle Araras
+34004558;Rio Acima r Jd Serrano
+34000132;Rio Branco av Centro
+34012427;Rio Capibaribe r N Sra Fatima
+34012409;Rio das Velhas av N Sra Fatima
+34001430;Rio de Janeiro r Matadouro
+34012442;Rio Doce r N Sra Fatima
+34001436;Rio Grande do Sul r Matadouro
+34012586;Rio Grande do Sul r Vl N Suica
+34012397;Rio Guapore r N Sra Fatima
+34012448;Rio Itajai r N Sra Fatima
+34012400;Rio Itanhaem r N Sra Fatima
+34012421;Rio Jaguari r N Sra Fatima
+34012415;Rio Jaguaribe r N Sra Fatima
+34012385;Rio Japura r N Sra Fatima
+34012439;Rio Jari r N Sra Fatima
+34012403;Rio Jequitinhonha r N Sra Fatima
+34012451;Rio Juruema r N Sra Fatima
+34012424;Rio Madeira r N Sra Fatima
+34012394;Rio Negro r N Sra Fatima
+34007164;Rio Pardo Conde do al Conde
+34012391;Rio Parnaiba r N Sra Fatima
+34012382;Rio Pindare r N Sra Fatima
+34012418;Rio Piracicaba r N Sra Fatima
+34012376;Rio Potengi r N Sra Fatima
+34012436;Rio Sao Francisco av N Sra Fatima
+34012406;Rio Solimões av N Sra Fatima
+34012388;Rio Taguari r N Sra Fatima
+34012412;Rio Tapajos r N Sra Fatima
+34012445;Rio Tibagi r N Sra Fatima
+34012454;Rio Tiete lado impar r N Sra Fatima
+34012488;Rio Tiete lado par r B Fama
+34012430;Rio Tocantins r N Sra Fatima
+34012379;Rio Verde r N Sra Fatima
+34012433;Rio Xingu r N Sra Fatima
+34003396;Rita Almeida Duarte r Cabeceiras
+34003223;Roberto Alvisi r B Jardim
+34007716;Rocky r Jd Canada
+34018042;Rolim Padre r Alphaville Lga Ingleses
+34012592;Rondonia r Vl N Suica
+34002074;Roni Garzon Gomes r O B Pena II
+34003503;Rosa Tofanelli Othero r Retiro
+34000354;Rosario do pc Rosario
+34004865;Rosas al Bsq Res Jambreiro
+34011212;Rosas das al Lga Miguelao
+34018100;Rosas das r Alphaville Lga Ingleses
+34001387;Roussim Maestro tv Bonfim
+34010567;Rouxinois dos r Qtas Mro Chapeu
+34003226;Rubem Costa Lima r B Jardim
+34004811;Rubi al Ipe
+34002464;Rubi r B Ceu
+34012150;Rubi r Vl Ouro
+34018062;Rubi r Alphaville Lga Ingleses
+34019899;Rural a A Rural
+34012568;S r At Gaia
+34001338;Sabara r Vl Operaria
+34018024;Sabara r Alphaville Lga Ingleses
+34011203;Sabia do al Lga Miguelao
+34007361;Sabias dos r Etn Serrana
+34000559;Sabino Barroso r Mingu
+34004175;Sacadura Cabral r Vl S J 1 Secao
+34004196;Sacadura Cabral r Silicoticos
+34012180;Safira r Vl Ouro
+34015170;Sagaranas das r J Petropolis
+34018249;Samuel Rossi pc Baln A Limpa
+34007076;San Marino r Vl Castela
+34018447;Santos Dumont av Baln A Limpa
+34003527;Santos Dumont r Retiro
+34000261;Sapucai Marques de ate 99/100 r Centro
+34001350;Sapucai Marques de de 101/102 ao fim r Vl Operaria
+34006024;Sapucaia r Vle Sereno
+34003575;Saturnino Sabino r Retiro
+34015090;Saudade da al G Park
+34009095;Saudade da r S S A Claras
+34000147;Scott r Centro
+34000440;Sebastiao de Oliveira r Boa Vista
+34002363;Sebastiao Sao r Cascalho
+34009115;Sebastiao Sao r S S A Claras
+34004004;Seis r Prq Aurilandia
+34004315;Seis r Res Sul
+34007113;Seis r Riviera
+34012856;Seis r Sta Rita
+34009145;Seis de Outubro r S S A Claras
+34004564;Sem Nome tv Jd Serrano
+34018294;Senadores dos r Baln A Limpa
+34008086;Serenata da r Vle Cristais
+34011221;Sereno do al Lga Miguelao
+34001418;Sergipe r Matadouro
+34012848;Seringueira r Vl I Amarelo
+34007206;Serra da Canastra al Vl D Rey
+34007209;Serra da Mantiqueira al Vl D Rey
+34007215;Serra do Cabral al Vl D Rey
+34007212;Serra do Caparao al Vl D Rey
+34007224;Serra do Curral al Vl D Rey
+34007230;Serra do Espinhaco al Vl D Rey
+34007221;Serra do Mar al Vl D Rey
+34007218;Serra do Rio Preto al Vl D Rey
+34007203;Serra dos Cristais al Vl D Rey
+34007236;Serra dos orgaos al Vl D Rey
+34007240;Serra dos orgaos al Etn D Rey
+34018456;Serra Negra r Baln A Limpa
+34011096;Sessenta e Um r Vle Sol
+34007119;Sete r Riviera
+34012889;Sete r Sta Rita
+34012892;Sete tv Sta Rita
+34004472;Sete de Abril r Vl Aparecida
+34004475;Sete de Abril tv Vl Aparecida
+34018462;Sete de Setembro pc Baln A Limpa
+34000216;Sete de Setembro r Centro
+34000285;Severiano de Lima r Centro
+34007100;Sevilha r Vl Castela
+34011081;Sexta av Vle Sol
+34007814;Shelton r Jd Canada
+34006030;Sibipiruna r Vle Sereno
+34007882;Sibipiruna r S Manacas
+34015115;Sibipirunas das r J Petropolis
+34002446;Siderita r B Ceu
+34009598;Silencio do al Pasargada
+34000183;Silverio Dom tv Centro
+34011144;Sinope r Vle Sol
+34000652;Sinval Lacerda r M D'agua
+34018288;Sirios dos r Baln A Limpa
+34012658;Soares r H Bicalho
+34004872;Sol al V Montagne
+34003232;Sol do al B Jardim
+34009607;Sol do al Pasargada
+34011230;Sol do al Lga Miguelao
+34011087;Sol do pc Vle Sol
+34003040;Solaris v Qtas Sol
+34007820;Solon r Jd Canada
+34009604;Sonhos dos al Pasargada
+34015085;Sonhos dos al G Park
+34015095;Sorriso do al G Park
+34007636;Sparta r Jd Canada
+34007666;Star r Jd Canada
+34007632;Stevens r Jd Canada
+34009245;Sucupiras das al Prq Jd Amanda
+34015215;Sucupiras das r J Petropolis
+34018450;Suecos dos r Baln A Limpa
+34012564;T r At Gaia
+34007762;Taber r Jd Canada
+34004080;Tamandare lado impar r Vl S J 3 Secao
+34004144;Tamandare lado impar r Vl S J 2 Secao
+34004178;Tamandare lado impar r Vl S J 1 Secao
+34004108;Tamandare lado par r Vl Madeira
+34004190;Tamandare r Silicoticos
+34004739;Tamareiras das al O Vo Mansões
+34002230;Tancredo Neves lado impar r Vl Mte Castelo
+34002218;Tancredo Neves lado par r Vle Esperanca
+34004350;Tangara al L Cottage
+34004309;Tangaras dos al Res Sul
+34008883;Taquaras das al Prq Engenho
+34008101;Tarde no Planeta r Vle Cristais
+34018078;Tarumas r Alphaville Lga Ingleses
+34011057;Tebe r Vle Sol
+34012744;Teixeira r A Horta
+34006170;Teixeira Vasconcelos Coronel r Jd Mangabeiras
+34011078;Tempo do pc Vle Sol
+34001211;Teofilo Gomes Rangel r Vl Lacerda
+34000318;Tereza Madre r Centro
+34002045;Tereza Moreira de Oliveira r Ch B Retiro
+34002010;Terezinha Martins do Carmo r Ch B Retiro
+34000480;Terezinha Santa r Boa Vista
+34015080;Ternura da al G Park
+34009556;Ternura da r Pasargada
+34011045;Terra av Vle Sol
+34004886;Terra da al V Montagne
+34011030;Thalassa r Vle Sol
+34002303;Tiburcio tv Cascalho
+34000129;Tiradentes r Centro
+34018028;Tiradentes r Alphaville Lga Ingleses
+34011117;Titania r Vle Sol
+34007097;Toledo r Vl Castela
+34001281;Tomas Gonzaga r Vl Passos
+34018046;Tomaz Gonzaga r Alphaville Lga Ingleses
+34004793;Topazio al Ipe
+34002461;Topazio av B Ceu
+34012160;Topazio r Vl Ouro
+34018064;Topazio r Alphaville Lga Ingleses
+34007658;Toronto av Jd Canada
+34007158;Torre Conde da al Conde
+34001074;Tres r Prq Sto Antonio
+34004505;Tres r M Mata
+34007116;Tres r Riviera
+34012472;Tres r B Fama
+34012700;Tres r H Bicalho
+34012780;Tres r Matozinhos
+34012846;Tres r Vl I Amarelo
+34012859;Tres r Sta Rita
+34012865;Tres tv Sta Rita
+34009140;Treze de Fevereiro r S S A Claras
+34002134;Trinta e Um r O B Pena II
+34011069;Tristao r Vle Sol
+34007760;Truro r Jd Canada
+34004303;Tucanos dos al Res Sul
+34004860;Tulipas al Bsq Res Jambreiro
+34004636;Tulipas das al P Pombo
+34012140;Tupamaro av Vl Ouro
+34000123;Tupi r Centro
+34000366;Tupi r Rosario
+34002455;Turmalina r B Ceu
+34012170;Turmalina r Vl Ouro
+34004802;Turquesa al Ipe
+34012165;Turquesa r Vl Ouro
+34012560;U r At Gaia
+34012356;Uberaba r Faz Benito
+34012362;Uberlandia av Faz Benito
+34012270;Uberlandia r Cpo Pires
+34000007;Ulisses de Moraes r Olaria
+34004490;Um av M Mata
+34012524;Um av At Gaia
+34004510;Um r M Mata
+34007134;Um r Riviera
+34012464;Um r B Fama
+34012666;Um r H Bicalho
+34012895;Um r Sta Rita
+34012871;Um tv Sta Rita
+34011105;Umbriel r Vle Sol
+34004870;Universo al V Montagne
+34018267;Urano r Baln A Limpa
+34018372;Urbanistas dos r Baln A Limpa
+34003165;Uruguai r Ch S Ramos
+34003190;Uruguai r Jd Americas
+34018393;Uruguai do r Baln A Limpa
+34012556;V r At Gaia
+34006068;Vale r Vl Serra
+34007722;Vancouver r Jd Canada
+34008089;Vasta Claridade da r Vle Cristais
+34003049;Vega r Qtas Sol
+34003168;Venezuela r Ch S Ramos
+34003192;Venezuela r Jd Americas
+34018309;Venezuela da r Baln A Limpa
+34011224;Vento do al Lga Miguelao
+34004898;Venus al V Montagne
+34011033;Venus av Vle Sol
+34018255;Vereadores dos r Baln A Limpa
+34006077;Vereda r Vl Serra
+34012065;Vereda da Alvorada r V Geraes
+34012090;Vereda da Aurora r V Geraes
+34012005;Vereda da Brisa r V Geraes
+34012020;Vereda da Mata r V Geraes
+34012095;Vereda da Montanha r V Geraes
+34012060;Vereda da Paisagem r V Geraes
+34012075;Vereda da Serra r V Geraes
+34012055;Vereda da Vista r V Geraes
+34012010;Vereda das Brumas r V Geraes
+34012040;Vereda das Estrelas r V Geraes
+34012015;Vereda do Alto r V Geraes
+34012105;Vereda do Amanhecer r V Geraes
+34012070;Vereda do Eco r V Geraes
+34012045;Vereda do Entardecer r V Geraes
+34012085;Vereda do Luar r V Geraes
+34012035;Vereda do Sul r V Geraes
+34012080;Vereda Verde r V Geraes
+34012000;Veredas das Gerais av V Geraes
+34007668;Vernon r Jd Canada
+34009553;Versos dos al Pasargada
+34004874;Via Lactea al V Montagne
+34011129;Via Lactea r Vle Sol
+34018345;Viajantes dos r Baln A Limpa
+34012504;Vicente Coelho r B Fama
+34001360;Vicente de Paula Sao tv Bonfim
+34007656;Victoria av Jd Canada
+34009562;Vida da al Pasargada
+34004132;Vila Lobos r Vl S J 2 Secao
+34003530;Vila Maria r Retiro
+34000243;Vilela Maestro r Centro
+34006039;Vinhatico r Vle Sereno
+34009251;Vinhaticos dos al Prq Jd Amanda
+34015255;Vinhaticos dos r J Petropolis
+34003330;Vinicius de Moraes r Quintas II
+34004546;Vinicius Rodrigues da Silva r Jd Serrano
+34012100;Vinte r V Geraes
+34002122;Vinte e Nove r O B Pena II
+34002152;Vinte e Seis r O B Pena II
+34002146;Vinte e Sete r O B Pena II
+34002062;Vinte Um r O B Pena II
+34012050;Vinte Um r V Geraes
+34002372;Vinte Um de Abril r Cascalho
+34007410;Virginia r Vl Verde
+34000580;Viriato Gomes de Barros r Mingu
+34000490;Vista Alegre r Boa Vista
+34003393;Vitor Gomes r Cabeceiras
+34004120;Vitor Gomes r Vl S J 2 Secao
+34001052;Vitoria r Alvorada
+34008092;Voz das Flores r Vle Cristais
+34004135;W r Vl S J 2 Secao
+34002324;Waldete Rocha r Cascalho
+34002137;Walmir Nazareth r O B Pena II
+34007818;Walpoli r Jd Canada
+34000345;Walter Pedro Lloyd r Rosario
+34004102;Wenceslau Madeira r Vl Madeira
+34007670;West r Jd Canada
+34007664;Weston r Jd Canada
+34007662;Wichita r Jd Canada
+34018050;Wimbledon av Alphaville Lga Ingleses
+34007088;Windson r Vl Castela
+34004169;Winston Churchill r Vl S J 1 Secao
+34004111;Wladimir Madeira Engenheiro r Vl Madeira
+34007816;Yazoo r Jd Canada
+34007808;Yuri r Jd Canada
+34003052;Zenite r Qtas Sol
